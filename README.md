@@ -1,6 +1,8 @@
-# Step2C--Project1 IPL Data Ingestion
-## Author : Step 2 C
-## Desc: Used ADF to extract data from various online storage systems &amp; then used Azure functions to validate source schema and data. Once the schema &amp; data is validated, used Azure SQL database to store and retrieve the schema validation details
+# Step2C Project1 IPL Data Ingestion
+## Author : Anuj Singh (Step 2C)
+### Desc: 
+
+Used ADF to extract data from various online storage systems &amp; then used Azure functions to validate source schema and data. Once the schema &amp; data is validated, used Azure SQL database to store and retrieve the schema validation details
 
 ### Summary 
 
