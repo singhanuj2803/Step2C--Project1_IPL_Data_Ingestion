@@ -1,0 +1,60 @@
+Match ID,Date,Venue,Team1,Team2,Toss Winner ,Toss Decision,Stage,First Innings Score,First Innings Wicket,Second Innings Score,Seconds Innings Wicket,Match Winner,Won by,Margin,Player of match
+1,18-Apr-09,"Newlands, Cape Town",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Field,Group,165,7,146,7,Mumbai Indians,Runs,19,Sachin Tendulkar
+2,18-Apr-09,"Newlands, Cape Town",Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Bat,Group,133,8,58,10,Royal Challengers Bangalore,Runs,75,Rahul Dravid
+3,19-Apr-09,"Newlands, Cape Town",Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,Field,Group,104,7,58,0,Delhi Daredevils,Wickets,10,Daniel Vettori
+4,19-Apr-09,"Newlands, Cape Town",Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,Bat,Group,101,10,104,2,Deccan Chargers,Wickets,8,R. P. Singh
+5,20-Apr-09,"St George's Park, Port Elizabeth",Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Bat,Group,179,5,87,10,Chennai Super Kings,Runs,92,Muttiah Muralitharan
+6,21-Apr-09,"Kingsmead, Durban",Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,158,6,79,1,Kolkata Knight Riders,Runs,11,Chris Gayle
+7,21-Apr-09,"Kingsmead, Durban",Rajasthan Royals,Mumbai Indians,,,,,,,,,,,
+8,22-Apr-09,"Newlands, Cape Town",Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,Bat,Group,184,6,160,8,Deccan Chargers,Runs,24,Adam Gilchrist
+9,23-Apr-09,"Kingsmead, Durban",Delhi Daredevils,Chennai Super Kings,Delhi Daredevils,Bat,Group,189,5,180,9,Delhi Daredevils,Runs,9,AB de Villiers
+10,23-Apr-09,"Newlands, Cape Town",Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,150,6,150,8,Rajasthan Royals,Super Over,,Yusuf Pathan
+11,24-Apr-09,"Kingsmead, Durban",Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,Bat,Group,168,9,173,3,Kings XI Punjab,Wickets,7,Ravi Bopara
+12,25-Apr-09,"Kingsmead, Durban",Deccan Chargers,Mumbai Indians,Deccan Chargers,Bat,Group,168,9,156,7,Deccan Chargers,Runs,12,Pragyan Ojha
+13,25-Apr-09,"Newlands, Cape Town",Chennai Super Kings,Kolkata Knight Riders,,,,,,,,,,,
+14,26-Apr-09,"St George's Park, Port Elizabeth",Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,Bat,Group,149,7,153,4,Delhi Daredevils,Wickets,6,Tillakaratne Dilshan
+15,26-Apr-09,"Newlands, Cape Town",Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,Bat,Group,139,6,112,7,Kings XI Punjab,Runs,27,Kumar Sangakkara
+16,27-Apr-09,"Kingsmead, Durban",Chennai Super Kings,Deccan Chargers,Deccan Chargers,Field,Group,165,6,169,4,Deccan Chargers,Wickets,6,Herschelle Gibbs
+17,27-Apr-09,"St George's Park, Port Elizabeth",Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Bat,Group,187,6,95,10,Mumbai Indians,Runs,92,Sachin Tendulkar
+18,28-Apr-09,"SuperSport Park, Centurion",Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,Bat,Group,143,7,147,5,Rajasthan Royals,Wickets,5,Yusuf Pathan
+19,29-Apr-09,"Kingsmead, Durban",Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,Bat,Group,139,6,143,5,Royal Challengers Bangalore,Wickets,5,Mark Boucher
+20,29-Apr-09,"Kingsmead, Durban",Kings XI Punjab,Mumbai Indians,Kings XI Punjab,Bat,Group,119,8,116,7,Kings XI Punjab,Runs,3,Kumar Sangakkara
+21,30-Apr-09,"SuperSport Park, Centurion",Deccan Chargers,Delhi Daredevils,Delhi Daredevils,Field,Group,148,9,150,4,Delhi Daredevils,Wickets,6,Dirk Nannes
+22,30-Apr-09,"SuperSport Park, Centurion",Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Field,Group,164,5,126,10,Chennai Super Kings,Runs,38,Suresh Raina
+23,01-May-09,"Buffalo Park, East London",Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Bat,Group,148,6,139,6,Mumbai Indians,Runs,9,Jean - Paul Duminy
+24,01-May-09,"Kingsmead, Durban",Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,Bat,Group,145,9,137,7,Royal Challengers Bangalore,Runs,8,Yuvraj Singh
+25,02-May-09,"St George's Park, Port Elizabeth",Deccan Chargers,Rajasthan Royals,Deccan Chargers,Bat,Group,141,5,142,7,Rajasthan Royals,Wickets,3,Yusuf Pathan
+26,02-May-09,"New Wanderers Stadium, Johannesburg",Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,Field,Group,163,10,145,8,Chennai Super Kings,Runs,18,Shadab Jakati
+27,03-May-09,"St George's Park, Port Elizabeth",Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,Bat,Group,153,3,154,4,Kings XI Punjab,Wickets,6,Mahela Jayawardene
+28,03-May-09,"New Wanderers Stadium, Johannesburg",Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,Bat,Group,149,4,150,1,Royal Challengers Bangalore,Wickets,9,Jacques Kallis
+29,04-May-09,"Buffalo Park, East London",Chennai Super Kings,Deccan Chargers,Chennai Super Kings,Bat,Group,178,3,100,10,Chennai Super Kings,Runs,78,Mahendra Singh Dhoni
+30,05-May-09,"Kingsmead, Durban",Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,Field,Group,211,4,133,8,Rajasthan Royals,Runs,78,Graeme Smith
+31,05-May-09,"Kingsmead, Durban",Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,Bat,Group,154,3,157,1,Delhi Daredevils,Wickets,9,Gautam Gambhir
+32,06-May-09,"SuperSport Park, Centurion",Deccan Chargers,Mumbai Indians,Deccan Chargers,Bat,Group,145,6,126,8,Deccan Chargers,Runs,19,Rohit Sharma
+33,07-May-09,"SuperSport Park, Centurion",Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,Field,Group,105,10,107,3,Rajasthan Royals,Wickets,7,Amit Singh
+34,07-May-09,"SuperSport Park, Centurion",Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,Bat,Group,185,3,174,3,Chennai Super Kings,Runs,12,Matthew Hayden
+35,08-May-09,"Buffalo Park, East London",Mumbai Indians,Delhi Daredevils,Mumbai Indians,Bat,Group,116,10,118,3,Delhi Daredevils,Wickets,7,Ashish Nehra
+36,09-May-09,"De Beers Diamond Oval, Kimberley",Deccan Chargers,Kings XI Punjab,Kings XI Punjab,Field,Group,168,5,169,7,Kings XI Punjab,Wickets,3,Mahela Jayawardene
+37,09-May-09,"De Beers Diamond Oval, Kimberley",Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Bat,Group,141,3,140,7,Chennai Super Kings,Wickets,7,S. Badrinath
+38,10-May-09,"St George's Park, Port Elizabeth",Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,Bat,Group,157,2,141,7,Mumbai Indians,Runs,16,Jean - Paul Duminy
+39,10-May-09,"New Wanderers Stadium, Johannesburg",Kolkata Knight Riders,Delhi Daredevils,Delhi Daredevils,Field,Group,123,8,125,3,Delhi Daredevils,Wickets,7,Amit Mishra
+40,11-May-09,"De Beers Diamond Oval, Kimberley",Deccan Chargers,Rajasthan Royals,Deccan Chargers,Bat,Group,166,7,113,10,Deccan Chargers,Runs,53,Dwayne Smith
+41,12-May-09,"SuperSport Park, Centurion",Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Field,Group,176,4,173,4,Royal Challengers Bangalore,Wickets,6,Ross Taylor
+42,12-May-09,"SuperSport Park, Centurion",Mumbai Indians,Kings XI Punjab,Kings XI Punjab,Bat,Group,122,2,199,9,Mumbai Indians,Wickets,8,Harbhajan Singh
+43,13-May-09,"Kingsmead, Durban",Delhi Daredevils,Deccan Chargers,Deccan Chargers,Field,Group,173,7,161,10,Delhi Daredevils,Runs,12,Rajat Bhatia
+44,14-May-09,"Kingsmead, Durban",Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Bat,Group,129,10,132,8,Royal Challengers Bangalore,Wickets,2,Ross Taylor
+45,14-May-09,"Kingsmead, Durban",Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Bat,Group,145,7,143,10,Rajasthan Royals,Runs,2,Shane Warne
+46,15-May-09,"OUTsurance Oval, Bloemfontein",Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,Field,Group,120,9,123,4,Kings XI Punjab,Wickets,6,Brett Lee
+47,16-May-09,"St George's Park, Port Elizabeth",Mumbai Indians,Chennai Super Kings,Mumbai Indians,Bat,Group,147,5,151,3,Chennai Super Kings,Wickets,7,Matthew Hayden
+48,16-May-09,"New Wanderers Stadium, Johannesburg",Kolkata Knight Riders,Deccan Chargers,Deccan Chargers,Field,Group,160,5,166,4,Deccan Chargers,Wickets,6,Rohit Sharma
+49,17-May-09,"New Wanderers Stadium, Johannesburg",Kings XI Punjab,Deccan Chargers,Deccan Chargers,Field,Group,134,7,133,8,Kings XI Punjab,Runs,1,Yuvraj Singh
+50,17-May-09,"OUTsurance Oval, Bloemfontein",Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,Bat,Group,150,3,136,9,Delhi Daredevils,Runs,14,AB de Villiers
+51,18-May-09,"SuperSport Park, Centurion",Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Bat,Group,188,3,189,3,Kolkata Knight Riders,Wickets,7,Brad Hodge
+52,19-May-09,"New Wanderers Stadium, Johannesburg",Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,Bat,Group,134,7,135,3,Royal Challengers Bangalore,Wickets,7,Jacques Kallis
+53,20-May-09,"Kingsmead, Durban",Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,101,9,102,6,Kolkata Knight Riders,Wickets,4,Laxmi Ratan Shukla
+54,20-May-09,"Kingsmead, Durban",Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,Bat,Group,116,9,92,8,Chennai Super Kings,Runs,24,Muttiah Muralitharan
+55,21-May-09,"SuperSport Park, Centurion",Mumbai Indians,Delhi Daredevils,Delhi Daredevils,Field,Group,165,8,166,6,Delhi Daredevils,Wickets,4,Virender Sehwag
+56,21-May-09,"SuperSport Park, Centurion",Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,Bat,Group,170,4,158,6,Royal Challengers Bangalore,Runs,12,Manish Pandey
+57,22-May-09,"SuperSport Park, Centurion",Delhi Daredevils,Deccan Chargers,Deccan Chargers,Field,Playoff,153,8,154,4,Deccan Chargers,Wickets,6,Adam Gilchrist
+58,23-May-09,"New Wanderers Stadium, Johannesburg",Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Playoff,146,6,149,4,Royal Challengers Bangalore,Wickets,6,Manish Pandey
+59,24-May-09,"New Wanderers Stadium, Johannesburg",Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Final,143,6,137,9,Deccan Chargers,Runs,6,Anil Kumble

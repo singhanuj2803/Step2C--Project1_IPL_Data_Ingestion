@@ -1,0 +1,60 @@
+Match ID,Date,Venue,Team1,Team2,Toss winner,Toss decision,Stage,First innings score,First innings wicket,Second innings score,Second innings wicket,Match winner,Won by,Margin,Player of the match
+1,18-Apr-08,"M. Chinnaswamy Stadium, Bangalore",Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,222,3,82,10,Kolkata Knight Riders,Runs,140,Brendon McCullum
+2,19-Apr-08,"Punjab Cricket Association Stadium, Mohali",Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,Bat,Group,240,5,207,4,Chennai Super Kings,Runs,33,Michael Hussey
+3,19-Apr-08,"Feroz Shah Kotla, Delhi",Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,Bat,Group,129,8,132,1,Delhi Daredevils,Wickets,9,Farveez Maharoof
+4,20-Apr-08,"Eden Gardens, Kolkata",Deccan Chargers,Kolkata Knight Riders,Deccan Chargers,Bat,Group,110,10,112,5,Kolkata Knight Riders,Wickets,5,David Hussey
+5,20-Apr-08,"Wankhede Stadium, Mumbai",Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,Bat,Group,165,6,166,5,Royal Challengers Bangalore,Wickets,5,Mark Boucher
+6,21-Apr-08,"Sawai Mansingh Stadium, Jaipur",Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,Bat,Group,166,8,168,4,Rajasthan Royals,Wickets,6,Shane Watson
+7,22-Apr-08,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Deccan Chargers,Delhi Daredevils,Deccan Chargers,Bat,Group,142,8,143,1,Delhi Daredevils,Wickets,9,Virender Sehwag
+8,23-Apr-08,"M. A Chidambaram Stadium, Chennai",Chennai Super Kings,Mumbai Indians,Mumbai Indians,Field,Group,208,5,202,7,Chennai Super Kings,Runs,6,Matthew Hayden
+9,24-Apr-08,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Deccan Chargers,Rajasthan Royals,Rajasthan Royals,Field,Group,214,5,217,7,Rajasthan Royals,Wickets,3,Yusuf Pathan
+10,25-Apr-08,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Mumbai Indians,Mumbai Indians,Field,Group,182,10,116,9,Kings XI Punjab,Runs,66,Kumar Sangakkara
+11,26-Apr-08,"M. A Chidambaram Stadium, Chennai",Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,Bat,Group,147,9,152,1,Chennai Super Kings,Wickets,9,Jacob Oram
+12,26-Apr-08,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,Field,Group,135,8,138,3,Rajasthan Royals,Wickets,7,Shane Watson
+13,27-Apr-08,"Punjab Cricket Association Stadium, Mohali",Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,Bat,Group,158,8,162,6,Kings XI Punjab,Wickets,4,Simon Katich
+14,27-Apr-08,"DY Patil Stadium, Navi Mumbai",Mumbai Indians,Deccan Chargers,Deccan Chargers,Field,Group,154,7,155,0,Deccan Chargers,Wickets,10,Adam Gilchrist
+15,28-Apr-08,"M. Chinnaswamy Stadium, Bangalore",Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Bat,Group,178,5,165,10,Chennai Super Kings,Runs,13,Mahendra Singh Dhoni
+16,29-Apr-08,"Eden Gardens, Kolkata",Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,Bat,Group,137,8,138,3,Mumbai Indians,Wickets,7,Sanath Jayasuriya
+17,30-Apr-08,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,191,5,181,5,Delhi Daredevils,Runs,10,Glenn McGrath
+18,01-May-08,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,Bat,Group,196,7,151,10,Rajasthan Royals,Runs,45,Swapnil Asnodkar
+19,01-May-08,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Deccan Chargers,Kings XI Punjab,Kings XI Punjab,Field,Group,164,8,167,3,Kings XI Punjab,Wickets,7,Shaun Marsh
+20,02-May-08,"M. A Chidambaram Stadium, Chennai",Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,Bat,Group,169,6,172,2,Delhi Daredevils,Wickets,8,Virender Sehwag
+21,03-May-08,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,Field,Group,156,8,153,6,Royal Challengers Bangalore,Runs,3,Praveen Kumar
+22,03-May-08,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,Bat,Group,178,6,169,6,Kings XI Punjab,Runs,9,Irfan Pathan
+23,04-May-08,"DY Patil Stadium, Navi Mumbai",Mumbai Indians,Delhi Daredevils,Delhi Daredevils,Field,Group,162,8,133,10,Mumbai Indians,Runs,29,Shaun Pollock
+24,04-May-08,"Sawai Mansingh Stadium, Jaipur",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,Bat,Group,109,10,110,2,Rajasthan Royals,Wickets,8,Sohail Tanvir
+25,05-May-08,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,Field,Group,126,10,127,4,Kings XI Punjab,Wickets,6,Sreesanth
+26,06-May-08,"M. A Chidambaram Stadium, Chennai",Chennai Super Kings,Deccan Chargers,Deccan Chargers,Field,Group,144,7,148,3,Deccan Chargers,Wickets,7,Adam Gilchrist
+27,07-May-08,"DY Patil Stadium, Navi Mumbai",Rajasthan Royals,Mumbai Indians,Mumbai Indians,Field,Group,103,10,104,3,Mumbai Indians,Wickets,7,Ashish Nehra
+28,08-May-08,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,Field,Group,187,5,188,6,Chennai Super Kings,Wickets,4,Mahendra Singh Dhoni
+29,08-May-08,"Eden Gardens, Kolkata",Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,Bat,Group,129,7,124,4,Kolkata Knight Riders,Runs,5,Sourav Ganguly
+30,09-May-08,"Sawai Mansingh Stadium, Jaipur",Deccan Chargers,Rajasthan Royals,Rajasthan Royals,Field,Group,140,8,141,2,Rajasthan Royals,Wickets,8,Yusuf Pathan
+31,10-May-08,"M. A Chidambaram Stadium, Chennai",Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,Field,Group,181,4,163,9,Chennai Super Kings,Runs,18,Lakshmipathy Balaji
+32,11-May-08,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,Bat,Group,204,4,181,7,Kolkata Knight Riders,Runs,23,Sourav Ganguly
+33,11-May-08,"Sawai Mansingh Stadium, Jaipur",Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,Field,Group,156,7,159,7,Rajasthan Royals,Wickets,3,Shane Watson
+34,12-May-08,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,Bat,Group,143,8,144,1,Kings XI Punjab,Wickets,9,Shaun Marsh
+35,13-May-08,"Eden Gardens, Kolkata",Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,Bat,Group,133,6,110,10,Kolkata Knight Riders,Runs,23,Shoaib Akhtar
+36,14-May-08,"Wankhede Stadium, Mumbai",Chennai Super Kings,Mumbai Indians,Mumbai Indians,Field,Group,156,6,158,1,Mumbai Indians,Wickets,9,Sanath Jayasuriya
+37,15-May-08,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Deccan Chargers,Deccan Chargers,Field,Group,194,4,182,9,Delhi Daredevils,Runs,12,Amit Mishra
+38,16-May-08,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Field,Group,67,10,68,2,Mumbai Indians,Wickets,8,Shaun Pollock
+39,17-May-08,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,197,1,132,9,Rajasthan Royals,Runs,65,Graeme Smith
+40,17-May-08,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,Bat,Group,118,4,94,3,Kings XI Punjab,Runs,6,Mahela Jayawardene
+41,18-May-08,"Eden Gardens, Kolkata",Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,Bat,Group,149,5,55,0,Chennai Super Kings,Runs,3,Makhaya Ntini
+42,18-May-08,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Mumbai Indians,Deccan Chargers,Deccan Chargers,Field,Group,178,7,153,7,Mumbai Indians,Runs,25,Dwayne Bravo
+43,19-May-08,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,Field,Group,154,7,158,5,Delhi Daredevils,Wickets,5,Shreevats Goswami
+44,20-May-08,"Eden Gardens, Kolkata",Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Field,Group,147,8,150,4,Rajasthan Royals,Wickets,6,Yusuf Pathan
+45,21-May-08,"Wankhede Stadium, Mumbai",Kings XI Punjab,Mumbai Indians,Mumbai Indians,Field,Group,189,4,188,10,Kings XI Punjab,Runs,1,Shaun Marsh
+46,21-May-08,"M. A Chidambaram Stadium, Chennai",Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,Bat,Group,126,8,112,8,Royal Challengers Bangalore,Runs,14,Anil Kumble
+47,22-May-08,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Kolkata Knight Riders,,,,,,,,,,,
+48,23-May-08,"Punjab Cricket Association Stadium, Mohali",Deccan Chargers,Kings XI Punjab,Kings XI Punjab,Field,Group,175,4,178,4,Kings XI Punjab,Wickets,6,Shaun Marsh
+49,24-May-08,"M. A Chidambaram Stadium, Chennai",Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Bat,Group,211,5,201,7,Rajasthan Royals,Runs,10,Albie Morkel
+50,24-May-08,"Feroz Shah Kotla, Delhi",Mumbai Indians,Delhi Daredevils,Delhi Daredevils,Field,Group,176,8,179,5,Delhi Daredevils,Wickets,5,Dinesh Karthik
+51,25-May-08,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,Bat,Group,165,10,171,5,Royal Challengers Bangalore,Wickets,5,Vinay Kumar
+52,25-May-08,"Eden Gardens, Kolkata",Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,Bat,Group,174,6,175,7,Kolkata Knight Riders,Wickets,3,Umar Gul
+53,26-May-08,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,Rajasthan Royals,Rajasthan Royals,Field,Group,145,7,146,5,Rajasthan Royals,Wickets,5,Sohail Tanvir
+54,27-May-08,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Deccan Chargers,Chennai Super Kings,Deccan Chargers,Bat,Group,147,8,148,3,Chennai Super Kings,Wickets,7,Suresh Raina
+55,28-May-08,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Field,Group,122,9,126,1,Mumbai Indians,Wickets,9,Dilhara Fernando
+56,28-May-08,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,Field,Group,221,3,180,7,Kings XI Punjab,Runs,41,Shaun Marsh
+57,30-May-08,"Wankhede Stadium, Mumbai",Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,Field,Playoff,192,9,87,10,Rajasthan Royals,Runs,105,Shane Watson
+58,31-May-08,"Wankhede Stadium, Mumbai",Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,Bat,Playoff,112,8,116,1,Chennai Super Kings,Wickets,9,Makhaya Ntini
+59,01-Jun-08,"DY Patil Stadium, Navi Mumbai",Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Field,Final,163,5,164,7,Rajasthan Royals,Wickets,3,Yusuf Pathan

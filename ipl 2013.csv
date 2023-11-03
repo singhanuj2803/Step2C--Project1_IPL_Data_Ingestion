@@ -1,0 +1,77 @@
+Match ID,Date,Venue,Team1,Team2,Toss Winner,Toss Decision,Stage,First Innings Score,First Innings Wicket,Second Innings score,Second Innings Wicket,Match Winner,Won by,Margin,Player of the match
+1,03-04-2013,"Eden Gardens, Kolkata",Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,128,10,129,4,Kolkata Knight Riders,Wickets,6,Sunil Narine
+2,04-04-2013,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Field,Group,156,5,154,5,Royal Challengers Bangalore,Runs,2,Chris Gayle
+3,05-04-2013,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Pune Warriors India,Pune Warriors India,Field,Group,126,6,104,10,Sunrisers Hyderabad,Runs,22,Amit Mishra
+4,06-04-2013,"Feroz Shah Kotla, Delhi",Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,Bat,Group,165,7,160,6,Rajasthan Royals,Runs,5,Rahul Dravid
+5,06-04-2013,"M. A. Chidambaram Stadium, Chennai",Mumbai Indians,Chennai Super Kings,Mumbai Indians,Bat,Group,148,6,139,9,Mumbai Indians,Runs,9,Kieron Pollard
+6,07-04-2013,"Subrata Roy Sahara Stadium, Pune",Pune Warriors India,Kings XI Punjab,Pune Warriors India,Bat,Group,99,9,100,2,Kings XI Punjab,Wickets,8,Manan Vohra
+7,07-04-2013,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,Bat,Group,130,8,130,7,Sunrisers Hyderabad,Super Over,,Hanuma Vihari
+8,08-04-2013,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,144,6,125,10,Rajasthan Royals,Runs,19,Siddharth Trivedi
+9,09-04-2013,"M. Chinnaswamy Stadium, Bangalore",Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,Bat,Group,161,6,162,3,Royal Challengers Bangalore,Wickets,7,Virat Kohli
+10,09-04-2013,"Wankhede Stadium, Mumbai",Mumbai Indians,Delhi Daredevils,Mumbai Indians,Bat,Group,209,5,165,9,Mumbai Indians,Runs,44,Dinesh Karthik
+11,10-04-2013,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,Field,Group,138,10,139,0,Chennai Super Kings,Wickets,10,Michael Hussey
+12,11-04-2013,"M. Chinnaswamy Stadium, Bangalore",Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,154,8,158,2,Royal Challengers Bangalore,Wickets,8,Chris Gayle
+13,11-04-2013,"Subrata Roy Sahara Stadium, Pune",Rajasthan Royals,Pune Warriors India,Rajasthan Royals,Bat,Group,145,5,148,3,Pune Warriors India,Wickets,7,Aaron Finch
+14,12-04-2013,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,Bat,Group,114,8,115,7,Sunrisers Hyderabad,Wickets,3,Amit Mishra
+15,13-04-2013,"Wankhede Stadium, Mumbai",Mumbai Indians,Pune Warriors India,Mumbai Indians,Bat,Group,183,3,142,8,Mumbai Indians,Runs,41,Rohit Sharma
+16,13-04-2013,"M. A. Chidambaram Stadium, Chennai",Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Field,Group,165,6,166,6,Chennai Super Kings,Wickets,4,Ravindra Jadeja
+17,14-04-2013,"Eden Gardens, Kolkata",Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,Bat,Group,180,4,132,7,Kolkata Knight Riders,Runs,48,Gautam Gambhir
+18,14-04-2013,"Sawai Mansingh Stadium, Jaipur",Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,Field,Group,124,10,126,4,Rajasthan Royals,Wickets,6,James Faulkner
+19,15-04-2013,"M. A. Chidambaram Stadium, Chennai",Pune Warriors India,Chennai Super Kings,Pune Warriors India,Bat,Group,159,5,135,8,Pune Warriors India,Runs,24,Steve Smith
+20,16-04-2013,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,157,9,153,9,Kings XI Punjab,Runs,4,Manpreet Gony
+21,16-04-2013,"M. Chinnaswamy Stadium, Bangalore",Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,152,5,152,7,Royal Challengers Bangalore,Super Over,,Virat Kohli
+22,17-04-2013,"Subrata Roy Sahara Stadium, Pune",Sunrisers Hyderabad,Pune Warriors India,Pune Warriors India,Field,Group,119,8,108,10,Sunrisers Hyderabad,Runs,11,Amit Mishra
+23,17-04-2013,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Bat,Group,179,3,92,10,Rajasthan Royals,Runs,87,Ajinkya Rahane
+24,18-04-2013,"Feroz Shah Kotla, Delhi",Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,Bat,Group,169,4,83,10,Chennai Super Kings,Runs,86,Michael Hussey
+25,19-04-2013,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,Bat,Group,123,9,127,5,Sunrisers Hyderabad,Wickets,5,Hanuma Vihari
+26,20-04-2013,"Eden Gardens, Kolkata",Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,Bat,Group,119,9,124,6,Chennai Super Kings,Wickets,4,Ravindra Jadeja
+27,20-04-2013,"M. Chinnaswamy Stadium, Bangalore",Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,117,10,123,3,Royal Challengers Bangalore,Wickets,7,Vinay Kumar
+28,21-04-2013,"Feroz Shah Kotla, Delhi",Mumbai Indians,Delhi Daredevils,Mumbai Indians,Bat,Group,161,4,165,1,Delhi Daredevils,Wickets,9,Virender Sehwag
+29,21-04-2013,"Punjab Cricket Association Stadium, Mohali",Pune Warriors India,Kings XI Punjab,Kings XI Punjab,Field,Group,185,4,186,3,Kings XI Punjab,Wickets,7,David Miller
+30,22-04-2013,"M. A. Chidambaram Stadium, Chennai",Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Bat,Group,185,4,186,5,Chennai Super Kings,Wickets,5,Michael Hussey
+31,23-04-2013,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Pune Warriors India,Pune Warriors India,Field,Group,263,5,133,9,Royal Challengers Bangalore,Runs,130,Chris Gayle
+32,23-04-2013,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,Field,Group,120,7,121,5,Kings XI Punjab,Wickets,5,Harmeet Singh
+33,24-04-2013,"Eden Gardens, Kolkata",Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,Bat,Group,159,6,162,5,Mumbai Indians,Wickets,5,Dwayne Smith
+34,25-04-2013,"M. A. Chidambaram Stadium, Chennai",Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Bat,Group,159,6,160,5,Chennai Super Kings,Wickets,5,Mahendra Singh Dhoni
+35,26-04-2013,"Eden Gardens, Kolkata",Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,Bat,Group,149,6,150,4,Kolkata Knight Riders,Wickets,6,Jacques Kallis
+36,27-04-2013,"Sawai Mansingh Stadium, Jaipur",Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,Bat,Group,144,9,146,2,Rajasthan Royals,Wickets,8,James Faulkner
+37,27-04-2013,"Wankhede Stadium, Mumbai",Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,Bat,Group,194,7,136,7,Mumbai Indians,Runs,58,Dwayne Smith
+38,28-04-2013,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,200,3,186,4,Chennai Super Kings,Runs,14,Michael Hussey
+39,28-04-2013,"Raipur International Cricket Stadium, Raipur",Delhi Daredevils,Pune Warriors India,Pune Warriors India,Field,Group,164,5,149,4,Delhi Daredevils,Runs,15,David Warner
+40,29-04-2013,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,Field,Group,171,6,173,6,Rajasthan Royals,Wickets,4,Sanju Samson
+41,29-04-2013,"Wankhede Stadium, Mumbai",Mumbai Indians,Kings XI Punjab,Mumbai Indians,Bat,Group,174,3,170,10,Mumbai Indians,Runs,4,Rohit Sharma
+42,30-04-2013,"Subrata Roy Sahara Stadium, Pune",Chennai Super Kings,Pune Warriors India,Chennai Super Kings,Bat,Group,164,3,127,9,Chennai Super Kings,Runs,37,Mahendra Singh Dhoni
+43,01-05-2013,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Bat,Group,129,4,130,3,Sunrisers Hyderabad,Wickets,7,Ishant Sharma
+44,01-05-2013,"Raipur International Cricket Stadium, Raipur",Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,Bat,Group,136,7,137,3,Delhi Daredevils,Wickets,7,David Warner
+45,02-05-2013,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,Bat,Group,186,4,171,6,Chennai Super Kings,Runs,15,Suresh Raina
+46,02-05-2013,"Subrata Roy Sahara Stadium, Pune",Royal Challengers Bangalore,Pune Warriors India,Royal Challengers Bangalore,Bat,Group,187,3,170,9,Royal Challengers Bangalore,Runs,17,AB de Villiers
+47,03-05-2013,"Eden Gardens, Kolkata",Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,Bat,Group,132,6,133,2,Kolkata Knight Riders,Wickets,8,Yusuf Pathan
+48,04-05-2013,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,Bat,Group,80,10,81,4,Sunrisers Hyderabad,Wickets,6,Darren Sammy
+49,05-05-2013,"Wankhede Stadium, Mumbai",Mumbai Indians,Chennai Super Kings,Mumbai Indians,Bat,Group,139,5,79,10,Mumbai Indians,Runs,60,Mitchell Johnson
+50,05-05-2013,"Sawai Mansingh Stadium, Jaipur",Pune Warriors India,Rajasthan Royals,Pune Warriors India,Bat,Group,178,4,182,5,Rajasthan Royals,Wickets,5,Ajinkya Rahane
+51,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,Field,Group,190,3,194,4,Kings XI Punjab,Wickets,6,David Miller
+52,07-05-2013,"Sawai Mansingh Stadium, Jaipur",Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,Bat,Group,154,4,155,1,Rajasthan Royals,Wickets,9,Ajinkya Rahane
+53,07-05-2013,"Wankhede Stadium, Mumbai",Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Bat,Group,170,6,105,10,Mumbai Indians,Runs,65,Sachin Tendulkar
+54,08-05-2013,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,223,3,146,8,Chennai Super Kings,Runs,77,Suresh Raina
+55,09-05-2013,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,Field,Group,145,6,147,2,Rajasthan Royals,Wickets,8,Kevon Cooper
+56,09-05-2013,"Subrata Roy Sahara Stadium, Pune",Kolkata Knight Riders,Pune Warriors India,Kolkata Knight Riders,Bat,Group,152,6,106,10,Kolkata Knight Riders,Runs,46,Gautam Gambhir
+57,10-05-2013,"Feroz Shah Kotla, Delhi",Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,Field,Group,183,4,179,7,Royal Challengers Bangalore,Runs,4,Jaydev Unadkat
+58,11-05-2013,"Subrata Roy Sahara Stadium, Pune",Pune Warriors India,Mumbai Indians,Pune Warriors India,Bat,Group,112,8,116,5,Mumbai Indians,Wickets,5,Mitchell Johnson
+59,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,Field,Group,150,7,120,9,Sunrisers Hyderabad,Runs,30,Parthiv Patel
+60,12-05-2013,"JSCA International Cricket Stadium, Ranchi",Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,115,9,116,5,Kolkata Knight Riders,Wickets,5,Jacques Kallis
+61,12-05-2013,"Sawai Mansingh Stadium, Jaipur",Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Field,Group,141,4,144,5,Rajasthan Royals,Wickets,5,Shane Watson
+62,13-05-2013,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,Bat,Group,178,3,184,3,Mumbai Indians,Wickets,7,Kieron Pollard
+63,14-05-2013,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,Field,Group,174,5,176,3,Kings XI Punjab,Wickets,7,Adam Gilchrist
+64,14-05-2013,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,Bat,Group,168,4,135,9,Chennai Super Kings,Runs,33,Mahendra Singh Dhoni
+65,15-05-2013,"JSCA International Cricket Stadium, Ranchi",Pune Warriors India,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,170,4,163,7,Pune Warriors India,Runs,7,Manish Pandey
+66,15-05-2013,"Wankhede Stadium, Mumbai",Mumbai Indians,Rajasthan Royals,Rajasthan Royals,Field,Group,166,8,152,7,Mumbai Indians,Runs,14,Aditya Tare
+67,16-05-2013,"HPCA Stadium, Dharamsala",Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,Field,Group,171,4,164,7,Kings XI Punjab,Runs,7,David Miller
+68,17-05-2013,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,Bat,Group,136,9,113,9,Sunrisers Hyderabad,Runs,23,Amit Mishra
+69,18-05-2013,"HPCA Stadium, Dharamsala",Kings XI Punjab,Mumbai Indians,Mumbai Indians,Field,Group,183,8,133,10,Kings XI Punjab,Runs,50,Azhar Mahmood
+70,18-05-2013,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Field,Group,106,2,82,6,Royal Challengers Bangalore,Runs,24,Virat Kohli
+71,19-05-2013,"Subrata Roy Sahara Stadium, Pune",Pune Warriors India,Delhi Daredevils,Pune Warriors India,Bat,Group,172,5,134,9,Pune Warriors India,Runs,38,Luke Wright
+72,19-05-2013,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,Bat,Group,130,7,132,5,Sunrisers Hyderabad,Wickets,5,Parthiv Patel
+73,21-05-2013,"Feroz Shah Kotla, Delhi",Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Bat,Playoff,192,1,144,10,Chennai Super Kings,Runs,48,Michael Hussey
+74,22-05-2013,"Feroz Shah Kotla, Delhi",Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,Bat,Playoff,132,7,135,6,Rajasthan Royals,Wickets,4,Brad Hodge
+75,24-05-2013,"Eden Gardens, Kolkata",Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Bat,Playoff,165,6,169,6,Mumbai Indians,Wickets,4,Harbhajan Singh
+76,26-05-2013,"Eden Gardens, Kolkata",Mumbai Indians,Chennai Super Kings,Mumbai Indians,Bat,Final,148,9,125,9,Mumbai Indians,Runs,23,Kieron Pollard

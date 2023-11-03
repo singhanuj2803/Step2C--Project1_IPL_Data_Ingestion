@@ -1,0 +1,61 @@
+Match ID,Date,Venue,Team1,Team2,Toss Winner,Toss Decision,Stage,First Innings Score,First Innings Wicket,Second Innings score,Second Innings Wicket,Match Winner,Won by,Margin,Player of the match
+1,07-04-2018,"Wankhede Stadium, Mumbai",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Field,Group,165,4,169,9,Chennai Super Kings,Wickets,1,Dwayne Bravo
+2,08-04-2018,"Punjab Cricket Association Stadium, Mohali",Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,Field,Group,166,7,167,4,Kings XI Punjab,Wickets,6,K. L. Rahul
+3,08-04-2018,"Eden Gardens, Kolkata",Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,176,7,177,6,Kolkata Knight Riders,Wickets,4,Sunil Narine
+4,09-04-2018,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,125,9,127,1,Sunrisers Hyderabad,Wickets,9,Shikhar Dhawan
+5,10-04-2018,"M. A. Chidambaram Stadium, Chennai",Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,Field,Group,202,6,205,5,Chennai Super Kings,Wickets,5,Sam Billings
+6,11-04-2018,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,Field,Group,153,5,60,4,Rajasthan Royals,Runs,10,Sanju Samson
+7,12-04-2018,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,147,8,151,9,Sunrisers Hyderabad,Wickets,1,Rashid Khan
+8,13-04-2018,"M. Chinnaswamy Stadium, Bangalore",Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,155,10,159,6,Royal Challengers Bangalore,Wickets,4,Umesh Yadav
+9,14-04-2018,"Wankhede Stadium, Mumbai",Mumbai Indians,Delhi Daredevils,Delhi Daredevils,Field,Group,194,7,195,3,Delhi Daredevils,Wickets,7,Jason Roy
+10,14-04-2018,"Eden Gardens, Kolkata",Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,138,8,139,5,Sunrisers Hyderabad,Wickets,5,Billy Stanlake
+11,15-04-2018,"M. Chinnaswamy Stadium, Bangalore",Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,217,4,198,6,Rajasthan Royals,Runs,19,Sanju Samson
+12,15-04-2018,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,Field,Group,197,7,193,5,Kings XI Punjab,Runs,4,Chris Gayle
+13,16-04-2018,"Eden Gardens, Kolkata",Kolkata Knight Riders,Delhi Daredevils,Delhi Daredevils,Field,Group,200,9,129,10,Kolkata Knight Riders,Runs,71,Nitish Rana
+14,17-04-2018,"Wankhede Stadium, Mumbai",Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,213,6,167,8,Mumbai Indians,Runs,46,Rohit Sharma
+15,18-04-2018,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,160,8,163,3,Kolkata Knight Riders,Wickets,7,Nitish Rana
+16,19-04-2018,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,Bat,Group,193,3,178,4,Kings XI Punjab,Runs,15,Chris Gayle
+17,20-04-2018,"Maharashtra Cricket Association Stadium, Pune",Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Field,Group,204,5,140,10,Chennai Super Kings,Runs,64,Shane Watson
+18,21-04-2018,"Eden Gardens, Kolkata",Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,Field,Group,191,7,126,1,Kings XI Punjab,Wickets,9,K. L. Rahul
+19,21-04-2018,"M. Chinnaswamy Stadium, Bangalore",Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,174,5,176,4,Royal Challengers Bangalore,Wickets,6,AB de Villiers
+20,22-04-2018,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,182,3,178,6,Chennai Super Kings,Runs,4,Ambati Rayudu
+21,22-04-2018,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,Rajasthan Royals,Mumbai Indians,Bat,Group,167,7,168,7,Rajasthan Royals,Wickets,3,Jofra Archer
+22,23-04-2018,"Feroz Shah Kotla, Delhi",Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,Field,Group,143,8,139,8,Kings XI Punjab,Runs,4,Ankit Rajpoot
+23,24-04-2018,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,Field,Group,118,10,87,10,Sunrisers Hyderabad,Runs,31,Rashid Khan
+24,25-04-2018,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Field,Group,205,8,207,5,Chennai Super Kings,Wickets,5,Mahendra Singh Dhoni
+25,26-04-2018,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,Field,Group,132,6,119,10,Sunrisers Hyderabad,Runs,13,Ankit Rajpoot
+26,27-04-2018,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,219,4,164,9,Delhi Daredevils,Runs,55,Shreyas Iyer
+27,28-04-2018,"Maharashtra Cricket Association Stadium, Pune",Chennai Super Kings,Mumbai Indians,Mumbai Indians,Field,Group,169,5,170,2,Mumbai Indians,Wickets,8,Rohit Sharma
+28,29-04-2018,"Sawai Mansingh Stadium, Jaipur",Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,Bat,Group,151,7,140,6,Sunrisers Hyderabad,Runs,11,Kane Williamson
+29,29-04-2018,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,175,4,176,4,Kolkata Knight Riders,Wickets,6,Chris Lynn
+30,30-04-2018,"Maharashtra Cricket Association Stadium, Pune",Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,Field,Group,211,4,198,5,Chennai Super Kings,Runs,13,Shane Watson
+31,01-05-2018,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Field,Group,167,7,153,7,Royal Challengers Bangalore,Runs,14,Tim Southee
+32,02-05-2018,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,Field,Group,196,6,146,5,Delhi Daredevils,Runs,4,Rishabh Pant
+33,03-05-2018,"Eden Gardens, Kolkata",Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,177,5,180,4,Kolkata Knight Riders,Wickets,6,Sunil Narine
+34,04-05-2018,"Holkar Cricket Stadium, Indore",Kings XI Punjab,Mumbai Indians,Mumbai Indians,Field,Group,174,6,176,4,Mumbai Indians,Wickets,6,Suryakumar Yadav
+35,05-05-2018,"Maharashtra Cricket Association Stadium, Pune",Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Field,Group,127,9,128,4,Chennai Super Kings,Wickets,6,Ravindra Jadeja
+36,05-05-2018,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,Bat,Group,163,5,164,3,Sunrisers Hyderabad,Wickets,7,Rashid Khan
+37,06-05-2018,"Wankhede Stadium, Mumbai",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,181,4,168,6,Mumbai Indians,Runs,13,Hardik Pandya
+38,06-05-2018,"Holkar Cricket Stadium, Indore",Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,Field,Group,152,9,155,4,Kings XI Punjab,Wickets,6,Mujeeb Ur Rahman
+39,07-05-2018,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,146,10,141,6,Sunrisers Hyderabad,Runs,5,Kane Williamson
+40,08-05-2018,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,Bat,Group,158,8,143,7,Rajasthan Royals,Runs,15,Jos Buttler
+41,09-05-2018,"Eden Gardens, Kolkata",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,210,6,108,10,Mumbai Indians,Runs,102,Ishan Kishan
+42,10-05-2018,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,Bat,Group,187,5,191,1,Sunrisers Hyderabad,Wickets,9,Shikhar Dhawan
+43,11-05-2018,"Sawai Mansingh Stadium, Jaipur",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,Bat,Group,176,4,177,6,Rajasthan Royals,Wickets,4,Jos Buttler
+44,12-05-2018,"Holkar Cricket Stadium, Indore",Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,Field,Group,245,6,214,8,Kolkata Knight Riders,Runs,31,Sunil Narine
+45,12-05-2018,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,181,4,187,5,Royal Challengers Bangalore,Wickets,5,AB de Villiers
+46,13-05-2018,"Maharashtra Cricket Association Stadium, Pune",Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,Field,Group,179,4,180,2,Chennai Super Kings,Wickets,8,Ambati Rayudu
+47,13-05-2018,"Wankhede Stadium, Mumbai",Mumbai Indians,Rajasthan Royals,Rajasthan Royals,Field,Group,168,6,171,3,Rajasthan Royals,Wickets,7,Jos Buttler
+48,14-05-2018,"Holkar Cricket Stadium, Indore",Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,88,10,92,0,Royal Challengers Bangalore,Wickets,10,Umesh Yadav
+49,15-05-2018,"Eden Gardens, Kolkata",Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,142,10,145,4,Kolkata Knight Riders,Wickets,6,Kuldeep Yadav
+50,16-05-2018,"Wankhede Stadium, Mumbai",Mumbai Indians,Kings XI Punjab,Kings XI Punjab,Field,Group,186,8,183,5,Mumbai Indians,Runs,3,Jasprit Bumrah
+51,17-05-2018,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,218,6,204,3,Royal Challengers Bangalore,Runs,14,AB de Villiers
+52,18-05-2018,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,Field,Group,162,5,128,6,Delhi Daredevils,Runs,34,Harshal Patel
+53,19-05-2018,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,Bat,Group,164,5,134,10,Rajasthan Royals,Runs,30,Shreyas Gopal
+54,19-05-2018,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Bat,Group,172,9,173,5,Kolkata Knight Riders,Wickets,5,Chris Lynn
+55,20-05-2018,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Mumbai Indians,Delhi Daredevils,Bat,Group,174,4,163,10,Delhi Daredevils,Runs,11,Amit Mishra
+56,20-05-2018,"Maharashtra Cricket Association Stadium, Pune",Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,Field,Group,153,10,159,5,Chennai Super Kings,Wickets,5,Lungi Ngidi
+57,22-05-2018,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,Field,Playoff,139,7,140,8,Chennai Super Kings,Wickets,2,Faf du Plessis
+58,23-05-2018,"Eden Gardens, Kolkata",Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Field,Playoff,169,7,144,4,Kolkata Knight Riders,Runs,25,Andre Russell
+59,25-05-2018,"Eden Gardens, Kolkata",Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Field,Playoff,174,7,160,9,Sunrisers Hyderabad,Runs,14,Rashid Khan
+60,27-05-2018,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,Field,Final,178,6,181,2,Chennai Super Kings,Wickets,8,Shane Watson
