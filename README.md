@@ -6,7 +6,7 @@ This Mini Project is designed for professionals and data enthusiasts who want to
 
 - Used Azure Data Factory to extract data from various online storage systems 
 - Used Azure Functions to validate source schema and data.
-- Used Azure SQL database (PAAS) to store and retrieve the schema validation details (Once the schema & data is validated,)
+- Used Azure SQL database (PAAS) to store and retrieve the schema validation details (Once the schema & data is validated) 
 
 ### Summary 
 
