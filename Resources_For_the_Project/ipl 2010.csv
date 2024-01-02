@@ -1,0 +1,61 @@
+Match ID,Date,Venue,Team1,Team2,Toss Winner,Toss Decision,Stage,First Innings Score,First Innings Wicket,Second Innings score,Second Innings Wicket,Match Winner,Won by,Margin,Player of the match
+1,12-Mar-10,"DY Patil Stadium, Mumbai",Kolkata Knight Riders,Deccan Chargers,Deccan Chargers,Field,Group,161,4,150,7,Kolkata Knight Riders,Runs,11,Angelo Mathews
+2,13-Mar-10,"Brabourne Stadium, Mumbai",Mumbai Indians,Rajasthan Royals,Mumbai Indians,Bat,Group,212,6,208,7,Mumbai Indians,Runs,4,Yusuf Pathan
+3,13-Mar-10,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,Field,Group,142,9,146,5,Delhi Daredevils,Wickets,5,Gautam Gambhir
+4,14-Mar-10,"Eden Gardens, Kolkata",Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,135,7,136,3,Kolkata Knight Riders,Wickets,7,Manoj Tiwary
+5,14-Mar-10,"M. A. Chidambaram Stadium, Chennai",Deccan Chargers,Chennai Super Kings,Deccan Chargers,Bat,Group,190,4,159,9,Deccan Chargers,Runs,31,Chaminda Vaas
+6,15-Mar-10,"Sardar Patel Stadium, Ahmedabad",Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,Field,Group,141,6,142,4,Delhi Daredevils,Wickets,6,Virender Sehwag
+7,16-Mar-10,"M. Chinnaswamy Stadium, Bangalore",Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,Bat,Group,203,3,204,2,Royal Challengers Bangalore,Wickets,8,Jacques Kallis
+8,16-Mar-10,"Eden Gardens, Kolkata",Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Bat,Group,164,3,109,10,Chennai Super Kings,Runs,55,Mahendra Singh Dhoni
+9,17-Mar-10,"Feroz Shah Kotla, Delhi",Mumbai Indians,Delhi Daredevils,Delhi Daredevils,Field,Group,218,7,120,10,Mumbai Indians,Runs,98,Sachin Tendulkar
+10,18-Mar-10,"M. Chinnaswamy Stadium, Bangalore",Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,92,10,93,0,Royal Challengers Bangalore,Wickets,10,Jacques Kallis
+11,19-Mar-10,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Chennai Super Kings,Delhi Daredevils,Bat,Group,185,6,190,5,Chennai Super Kings,Wickets,5,Mathew Hayden
+12,19-Mar-10,"Barabati Stadium, Cuttack",Deccan Chargers,Kings XI Punjab,Kings XI Punjab,Field,Group,170,7,164,8,Deccan Chargers,Runs,6,Andrew Symonds
+13,20-Mar-10,"Sardar Patel Stadium, Ahmedabad",Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,Bat,Group,168,7,134,5,Rajasthan Royals,Runs,34,Abhishek Jhunjhunwala
+14,20-Mar-10,"Brabourne Stadium, Mumbai",Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,Bat,Group,151,9,155,3,Royal Challengers Bangalore,Wickets,7,Jacques Kallis
+15,21-Mar-10,"Barabati Stadium, Cuttack",Deccan Chargers,Delhi Daredevils,Deccan Chargers,Bat,Group,171,6,161,9,Deccan Chargers,Runs,10,Andrew Symonds
+16,21-Mar-10,"M. A. Chidambaram Stadium, Chennai",Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,Field,Group,136,8,136,7,Kings XI Punjab,Super Over,,Juan Theron
+17,22-Mar-10,"Brabourne Stadium, Mumbai",Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,Bat,Group,155,3,156,3,Mumbai Indians,Wickets,7,Sachin Tendulkar
+18,23-Mar-10,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Field,Group,171,5,135,7,Royal Challengers Bangalore,Runs,36,Robin Uthappa
+19,24-Mar-10,"Punjab Cricket Association Stadium, Mohali",Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,Field,Group,183,5,152,10,Rajasthan Royals,Runs,31,Adam Voges
+20,25-Mar-10,"M. Chinnaswamy Stadium, Bangalore",Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,183,4,166,9,Delhi Daredevils,Runs,17,Kedar Jadhav
+21,25-Mar-10,"Brabourne Stadium, Mumbai",Chennai Super Kings,Mumbai Indians,Mumbai Indians,Field,Group,180,2,181,5,Mumbai Indians,Wickets,5,Sachin Tendulkar
+22,26-Mar-10,"Sardar Patel Stadium, Ahmedabad",Deccan Chargers,Rajasthan Royals,Deccan Chargers,Bat,Group,148,9,151,2,Rajasthan Royals,Wickets,8,Yusuf Pathan
+23,27-Mar-10,"Punjab Cricket Association Stadium, Mohali",Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,Bat,Group,183,5,144,6,Kolkata Knight Riders,Runs,39,Manoj Tiwary
+24,28-Mar-10,"Sardar Patel Stadium, Ahmedabad",Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Bat,Group,177,8,160,6,Rajasthan Royals,Runs,17,Naman Ojha
+25,28-Mar-10,"DY Patil Stadium, Mumbai",Mumbai Indians,Deccan Chargers,Deccan Chargers,Field,Group,172,7,131,10,Mumbai Indians,Runs,41,Harbhajan Singh
+26,29-Mar-10,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,Bat,Group,177,4,137,9,Delhi Daredevils,Runs,40,David Warner
+27,30-Mar-10,"Brabourne Stadium, Mumbai",Kings XI Punjab,Mumbai Indians,Mumbai Indians,Field,Group,163,10,164,6,Mumbai Indians,Wickets,4,Lasith Malinga
+28,31-Mar-10,"M. A. Chidambaram Stadium, Chennai",Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,Bat,Group,161,4,162,5,Chennai Super Kings,Wickets,5,Murali Vijay
+29,31-Mar-10,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,Bat,Group,188,6,121,10,Delhi Daredevils,Runs,67,Dinesh Karthik
+30,01-Apr-10,"Eden Gardens, Kolkata",Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,Bat,Group,181,6,157,5,Kolkata Knight Riders,Runs,24,Sourav Ganguly
+31,02-Apr-10,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,Bat,Group,181,5,184,4,Royal Challengers Bangalore,Wickets,6,Kevin Pietersen
+32,03-Apr-10,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,Bat,Group,246,5,223,5,Chennai Super Kings,Runs,23,Murali Vijay
+33,03-Apr-10,"Brabourne Stadium, Mumbai",Mumbai Indians,Deccan Chargers,Mumbai Indians,Bat,Group,178,5,115,10,Mumbai Indians,Runs,63,Ambati Rayudu
+34,04-Apr-10,"Eden Gardens, Kolkata",Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,Bat,Group,200,3,204,2,Kings XI Punjab,Wickets,8,Mahela Jayawardene
+35,04-Apr-10,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,Bat,Group,184,5,147,9,Delhi Daredevils,Runs,37,Paul Collingwood
+36,05-Apr-10,"Vidarbha Cricket Association Stadium, Nagpur",Rajasthan Royals,Deccan Chargers,Rajasthan Royals,Bat,Group,159,10,157,10,Rajasthan Royals,Runs,2,Shane Warne
+37,06-Apr-10,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Bat,Group,165,4,141,9,Chennai Super Kings,Runs,24,Suresh Raina
+38,07-Apr-10,"Sawai Mansingh Stadium, Jaipur",Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,Bat,Group,153,6,157,1,Rajasthan Royals,Wickets,9,Michael Lumb
+39,07-Apr-10,"Eden Gardens, Kolkata",Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,Bat,Group,181,3,167,8,Kolkata Knight Riders,Runs,14,Sourav Ganguly
+40,08-Apr-10,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,Field,Group,184,6,186,3,Deccan Chargers,Wickets,7,Tirumalasetti Suman
+41,09-Apr-10,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Kings XI Punjab,Mumbai Indians,Bat,Group,154,9,158,4,Kings XI Punjab,Wickets,6,Kumar Sangakkara
+42,10-Apr-10,"Vidarbha Cricket Association Stadium, Nagpur",Chennai Super Kings,Deccan Chargers,Chennai Super Kings,Bat,Group,138,8,139,4,Deccan Chargers,Wickets,6,Ryan Harris
+43,10-Apr-10,"M. Chinnaswamy Stadium, Bangalore",Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,160,9,162,3,Royal Challengers Bangalore,Wickets,7,Brendon McCullum
+44,11-Apr-10,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,Bat,Group,111,10,112,3,Kings XI Punjab,Wickets,7,Piyush Chawla
+45,11-Apr-10,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,Rajasthan Royals,Rajasthan Royals,Field,Group,174,5,137,8,Mumbai Indians,Runs,37,Sachin Tendulkar
+46,12-Apr-10,"Vidarbha Cricket Association Stadium, Nagpur",Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,151,6,138,10,Deccan Chargers,Runs,13,Harmeet Singh
+47,13-Apr-10,"Brabourne Stadium, Mumbai",Mumbai Indians,Delhi Daredevils,Mumbai Indians,Bat,Group,183,4,144,7,Mumbai Indians,Runs,39,Kieron Pollard
+48,13-Apr-10,"M. A. Chidambaram Stadium, Chennai",Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,Bat,Group,139,8,143,1,Chennai Super Kings,Wickets,9,Ravichandran Ashwin
+49,14-Apr-10,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,Bat,Group,130,6,132,5,Royal Challengers Bangalore,Wickets,5,Kevin Pietersen
+50,15-Apr-10,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,Bat,Group,112,9,113,4,Delhi Daredevils,Wickets,6,Gautam Gambhir
+51,16-Apr-10,"HPCA Cricket Stadium, Dharamsala",Kings XI Punjab,Deccan Chargers,Deccan Chargers,Field,Group,174,3,178,5,Deccan Chargers,Wickets,5,Rohit Sharma
+52,17-Apr-10,"M. Chinnaswamy Stadium, Bangalore",Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,191,4,134,9,Mumbai Indians,Runs,57,Ryan McLaren
+53,17-Apr-10,"Eden Gardens, Kolkata",Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,Bat,Group,132,9,133,2,Kolkata Knight Riders,Wickets,8,Jaydev Unadkat
+54,18-Apr-10,"HPCA Cricket Stadium, Dharamsala",Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,Field,Group,192,3,195,4,Chennai Super Kings,Wickets,6,Mahendra Singh Dhoni
+55,18-Apr-10,"Feroz Shah Kotla, Delhi",Deccan Chargers,Delhi Daredevils,Deccan Chargers,Bat,Group,145,7,134,7,Deccan Chargers,Runs,11,Andrew Symonds
+56,19-Apr-10,"Eden Gardens, Kolkata",Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Bat,Group,133,8,135,1,Kolkata Knight Riders,Wickets,9,Murali Kartik
+57,21-Apr-10,"DY Patil Stadium, Mumbai",Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,Bat,Playoff,184,5,149,9,Mumbai Indians,Runs,35,Kieron Pollard
+58,22-Apr-10,"DY Patil Stadium, Mumbai",Chennai Super Kings,Deccan Chargers,Chennai Super Kings,Bat,Playoff,142,7,104,10,Chennai Super Kings,Runs,38,Doug Bollinger
+59,24-Apr-10,"DY Patil Stadium, Mumbai",Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,Bat,Playoff,82,10,86,1,Royal Challengers Bangalore,Wickets,9,Anil Kumble
+60,25-Apr-10,"DY Patil Stadium, Mumbai",Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Bat,Final,168,5,146,9,Chennai Super Kings,Runs,22,Suresh Raina

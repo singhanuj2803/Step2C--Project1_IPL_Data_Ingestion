@@ -1,0 +1,75 @@
+Match ID,Date,Venue,Team1,Team2,Toss Winner,Toss Decision,Stage,First Innings Score,First Innings Wicket,Second Innings score,Second Innings Wicket,Match Winner,Won by,Margin,Player of the match
+1,08-04-2011,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Bat,Group,153,4,151,7,Chennai Super Kings,Runs,2,Srikkanth Anirudha
+2,09-04-2011,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Deccan Chargers,Rajasthan Royals,Rajasthan Royals,Field,Group,137,8,141,2,Rajasthan Royals,Wickets,8,Siddharth Trivedi
+3,09-04-2011,"Jawaharlal Nehru Stadium, Kochi",Kochi Tuskers Kerala,Royal Challengers Bangalore,Kochi Tuskers Kerala,Bat,Group,161,5,162,4,Royal Challengers Bangalore,Wickets,6,AB de Villiers
+4,10-04-2011,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Mumbai Indians,Delhi Daredevils,Bat,Group,95,10,99,2,Mumbai Indians,Wickets,8,Lasith Malinga
+5,10-04-2011,"DY Patil Stadium, Mumbai",Kings XI Punjab,Pune Warriors India,Kings XI Punjab,Bat,Group,112,8,113,3,Pune Warriors India,Wickets,7,Shrikant Wagh
+6,11-04-2011,"Eden Gardens, Kolkata",Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,Bat,Group,163,4,154,8,Kolkata Knight Riders,Runs,9,Jacques Kallis
+7,12-04-2011,"Sawai Mansingh Stadium, Jaipur",Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,Bat,Group,151,6,152,4,Rajasthan Royals,Wickets,6,Shane Warne
+8,12-04-2011,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Field,Group,140,4,143,1,Mumbai Indians,Wickets,9,Sachin Tendulkar
+9,13-04-2011,"Punjab Cricket Association Stadium, Mohali",Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,Field,Group,188,4,193,4,Kings XI Punjab,Wickets,6,Paul Valthaty
+10,13-04-2011,"DY Patil Stadium, Mumbai",Kochi Tuskers Kerala,Pune Warriors India,Kochi Tuskers Kerala,Bat,Group,148,8,151,6,Pune Warriors India,Wickets,4,Mohnish Mishra
+11,14-04-2011,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,175,5,142,9,Deccan Chargers,Runs,33,Dale Steyn
+12,15-04-2011,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,159,4,160,1,Kolkata Knight Riders,Wickets,9,Gautam Gambhir
+13,15-04-2011,"Wankhede Stadium, Mumbai",Mumbai Indians,Kochi Tuskers Kerala,Kochi Tuskers Kerala,Field,Group,182,2,184,2,Kochi Tuskers Kerala,Wickets,8,Brendon McCullum
+14,16-04-2011,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Bat,Group,183,5,162,7,Chennai Super Kings,Runs,21,Michael Hussey
+15,16-04-2011,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Deccan Chargers,Kings XI Punjab,Kings XI Punjab,Field,Group,165,8,166,2,Kings XI Punjab,Wickets,8,Paul Valthaty
+16,17-04-2011,"DY Patil Stadium, Mumbai",Pune Warriors India,Delhi Daredevils,Delhi Daredevils,Field,Group,187,5,190,7,Delhi Daredevils,Wickets,3,Yuvraj Singh
+17,17-04-2011,"Eden Gardens, Kolkata",Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,81,10,85,2,Kolkata Knight Riders,Wickets,8,Lakshmipathy Balaji
+18,18-04-2011,"Jawaharlal Nehru Stadium, Kochi",Chennai Super Kings,Kochi Tuskers Kerala,Kochi Tuskers Kerala,Field,Group,131,4,135,3,Kochi Tuskers Kerala,Wickets,7,Brendon McCullum
+19,19-04-2011,"Feroz Shah Kotla, Delhi",Deccan Chargers,Delhi Daredevils,Deccan Chargers,Bat,Group,168,4,152,7,Deccan Chargers,Runs,16,Sunny Sohal
+20,19-04-2011,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Rajasthan Royals,,,,,,,,,,,
+21,20-04-2011,"Wankhede Stadium, Mumbai",Pune Warriors India,Mumbai Indians,Pune Warriors India,Bat,Group,118,10,124,3,Mumbai Indians,Wicket,7,Munaf Patel
+22,20-04-2011,"Eden Gardens, Kolkata",Kochi Tuskers Kerala,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,132,7,126,9,Kochi Tuskers Kerala,Runs,6,Mahela Jayawardene
+23,21-04-2011,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,Field,Group,195,7,147,7,Kings XI Punjab,Runs,48,Shaun Marsh
+24,22-04-2011,"Eden Gardens, Kolkata",Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,171,5,175,1,Royal Challengers Bangalore,Wickets,9,Chris Gayle
+25,22-04-2011,"Wankhede Stadium, Mumbai",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Field,Group,164,4,156,9,Mumbai Indians,Runs,8,Harbhajan Singh
+26,23-04-2011,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,Field,Group,231,4,202,6,Delhi Daredevils,Runs,29,David Warner
+27,24-04-2011,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Mumbai Indians,Deccan Chargers,Deccan Chargers,Field,Group,172,4,135,8,Mumbai Indians,Runs,37,Lasith Malinga
+28,24-04-2011,"Sawai Mansingh Stadium, Jaipur",Kochi Tuskers Kerala,Rajasthan Royals,Rajasthan Royals,Field,Group,109,10,111,2,Rajasthan Royals,Wickets,8,Shane Warne
+29,25-04-2011,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Pune Warriors India,Pune Warriors India,Field,Group,142,6,117,9,Chennai Super Kings,Runs,25,Michael Hussey
+30,26-04-2011,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,160,6,161,7,Royal Challengers Bangalore,Wickets,3,Virat Kohli
+31,27-04-2011,"DY Patil Stadium, Mumbai",Pune Warriors India,Chennai Super Kings,Pune Warriors India,Bat,Group,141,6,145,2,Chennai Super Kings,Wickets,8,Doug Bollinger
+32,27-04-2011,"Jawaharlal Nehru Stadium, Kochi",Deccan Chargers,Kochi Tuskers Kerala,Kochi Tuskers Kerala,Field,Group,129,6,74,10,Deccan Chargers,Runs,55,Ishant Sharma
+33,28-04-2011,"Feroz Shah Kotla, Delhi",Kolkata Knight Riders,Delhi Daredevils,Delhi Daredevils,Field,Group,148,7,131,9,Kolkata Knight Riders,Runs,17,Manoj Tiwary
+34,29-04-2011,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,Rajasthan Royals,Rajasthan Royals,Field,Group,94,8,95,3,Rajasthan Royals,Wickets,7,Johan Botha
+35,29-04-2011,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Pune Warriors India,Pune Warriors India,Field,Group,181,5,155,5,Royal Challengers Bangalore,Runs,26,Virat Kohli
+36,30-04-2011,"Jawaharlal Nehru Stadium, Kochi",Delhi Daredevils,Kochi Tuskers Kerala,Delhi Daredevils,Bat,Group,157,7,119,10,Delhi Daredevils,Runs,38,Virender Sehwag
+37,30-04-2011,"Eden Gardens, Kolkata",Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,119,6,120,2,Kolkata Knight Riders,Wickets,8,Iqbal Abdulla
+38,01-05-2011,"Sawai Mansingh Stadium, Jaipur",Pune Warriors India,Rajasthan Royals,Rajasthan Royals,Field,Group,143,7,144,4,Rajasthan Royals,Wickets,6,Ross Taylor
+39,01-05-2011,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Deccan Chargers,Chennai Super Kings,Bat,Group,165,5,146,8,Chennai Super Kings,Runs,19,Albie morkel
+40,02-05-2011,"Wankhede Stadium, Mumbai",Mumbai Indians,Kings XI Punjab,Kings XI Punjab,Field,Group,159,5,136,8,Mumbai Indians,Runs,23,Kieron Pollard
+41,02-05-2011,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Kochi Tuskers Kerala,Kochi Tuskers Kerala,Field,Group,140,6,141,3,Kochi Tuskers Kerala,Wickets,7,Prasanth Parameswaran
+42,03-05-2011,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Kolkata Knight Riders,Deccan Chargers,Deccan Chargers,Field,Group,169,4,149,6,Kolkata Knight Riders,Runs,20,Yusuf Pathan
+43,04-05-2011,"M. A. Chidambaram Stadium, Chennai",Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Bat,Group,147,6,149,2,Chennai Super Kings,Wickets,8,Michael Hussey
+44,04-05-2011,"DY Patil Stadium, Mumbai",Mumbai Indians,Pune Warriors India,Pune Warriors India,Field,Group,160,7,139,7,Mumbai Indians,Runs,21,Rahul Sharma
+45,05-05-2011,"Jawaharlal Nehru Stadium, Kochi",Kochi Tuskers Kerala,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,156,5,139,7,Kochi Tuskers Kerala,Runs,17,Brad Hodge
+46,05-05-2011,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Deccan Chargers,Delhi Daredevils,Delhi Daredevils,Field,Group,175,5,179,6,Delhi Daredevils,Wickets,4,Virender Sehwag
+47,06-05-2011,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,Field,Group,205,6,120,9,Royal Challengers Bangalore,Runs,85,Chris Gayle
+48,07-05-2011,"Eden Gardens, Kolkata",Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Bat,Group,114,4,61,2,Kolkata Knight Riders,Runs,10,Iqbal Abdulla
+49,07-05-2011,"Wankhede Stadium, Mumbai",Mumbai Indians,Delhi Daredevils,Delhi Daredevils,Field,Group,178,4,146,10,Mumbai Indians,Runs,32,Ambati Rayudu
+50,08-05-2011,"M. Chinnaswamy Stadium, Bangalore",Kochi Tuskers Kerala,Royal Challengers Bangalore,Kochi Tuskers Kerala,Bat,Group,125,9,128,1,Royal Challengers Bangalore,Wickets,9,Chris Gayle
+51,08-05-2011,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Pune Warriors India,Kings XI Punjab,Bat,Group,119,8,120,5,Pune Warriors India,Wickets,5,Rahul Sharma
+52,09-05-2011,"Sawai Mansingh Stadium, Jaipur",Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Field,Group,196,3,133,10,Chennai Super Kings,Runs,63,Murali Vijay
+53,10-05-2011,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Deccan Chargers,Pune Warriors India,Deccan Chargers,Bat,Group,136,8,137,4,Pune Warriors India,Wickets,6,Mitchell Marsh
+54,10-05-2011,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Mumbai Indians,Mumbai Indians,Field,Group,163,8,87,10,Kings XI Punjab,Runs,76,Bhargav Bhatt
+55,11-05-2011,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,146,6,151,1,Royal Challengers Bangalore,Wickets,9,Sreenath Aravind
+56,12-05-2011,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,Bat,Group,176,4,158,6,Chennai Super Kings,Runs,18,Mahendra Singh Dhoni
+57,13-05-2011,"Holkar Cricket Stadium, Indore",Kochi Tuskers Kerala,Kings XI Punjab,Kings XI Punjab,Field,Group,178,7,181,4,Kings XI Punjab,Wickets,6,Dinesh Karthik
+58,14-05-2011,"M. Chinnaswamy Stadium, Bangalore",Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,89,4,105,6,Royal Challengers Bangalore,Wickets,4,Chris Gayle
+59,14-05-2011,"Wankhede Stadium, Mumbai",Deccan Chargers,Mumbai Indians,Deccan Chargers,Bat,Group,135,6,125,8,Deccan Chargers,Runs,10,Amit Mishra
+60,15-05-2011,"HPCA Stadium, Dharamsala",Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,Field,Group,170,6,141,8,Kings XI Punjab,Runs,29,Piyush Chawla
+61,15-05-2011,"Holkar Cricket Stadium, Indore",Rajasthan Royals,Kochi Tuskers Kerala,Kochi Tuskers Kerala,Field,Group,97,10,98,2,Kochi Tuskers Kerala,Wickets,8,Brad Hodge
+62,16-05-2011,"DY Patil Stadium, Mumbai",Pune Warriors India,Deccan Chargers,Deccan Chargers,Field,Group,136,9,138,4,Deccan Chargers,Wickets,6,Amit Mishra
+63,17-05-2011,"HPCA Stadium, Dharamsala",Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,Bat,Group,232,2,121,10,Kings XI Punjab,Runs,111,Adam Gilchrist
+64,18-05-2011,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Kochi Tuskers Kerala,Chennai Super Kings,Bat,Group,152,5,141,5,Chennai Super Kings,Runs,11,Wriddhiman Saha
+65,19-05-2011,"DY Patil Stadium, Mumbai",Pune Warriors India,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,118,7,119,3,Kolkata Knight Riders,Wickets,7,Yusuf Pathan
+66,20-05-2011,"Wankhede Stadium, Mumbai",Mumbai Indians,Rajasthan Royals,Mumbai Indians,Bat,Group,133,5,134,0,Rajasthan Royals,Wickets,10,Shane Watson
+67,21-05-2011,"HPCA Stadium, Dharamsala",Deccan Chargers,Kings XI Punjab,Kings XI Punjab,Field,Group,198,2,116,10,Deccan Chargers,Runs,82,Shikhar Dhawan
+68,21-05-2011,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Pune Warriors India,Delhi Daredevils,Bat,Group,56,3,,,,,,
+69,22-05-2011,"M. Chinnaswamy Stadium, Bangalore",Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,128,8,129,2,Royal Challengers Bangalore,Wickets,8,Chris Gayle
+70,22-05-2011,"Eden Gardens, Kolkata",Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Field,Group,175,7,178,5,Mumbai Indians,Wickets,5,James Franklin
+71,24-05-2011,"Wankhede Stadium, Mumbai",Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Field,Playoff,175,4,177,4,Chennai Super Kings,Wickets,6,Suresh Raina
+72,25-05-2011,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Field,Playoff,147,7,148,6,Mumbai Indians,Wickets,4,Munaf Patel
+73,27-05-2011,"M. A. Chidambaram Stadium, Chennai",Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Field,Playoff,185,4,142,8,Royal Challengers Bangalore,Runs,43,Chris Gayle
+74,28-05-2011,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Bat,Final,205,5,147,8,Chennai Super Kings,Runs,58,Murali Vijay

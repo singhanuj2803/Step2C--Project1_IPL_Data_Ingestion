@@ -1,0 +1,61 @@
+Match ID,Date,Venue,Team1,Team2,Toss Winner,Stage,Toss Decision,First Innings Score,First Innings Wicket,Second Innings score,Second Innings Wicket,Match Winner,Won by,Margin,Player of the match
+1,16-04-2014,"Sheikh Zayed Stadium, Abu Dhabi",Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,Group,Bat,163,5,122,7,Kolkata Knight Riders,Runs,41,Jacques Kallis
+2,17-04-2014,Sharjah Cricket Stadium,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,Group,Field,145,4,146,2,Royal Challengers Bangalore,Wickets,8,Yuzvendra Chahal
+3,18-04-2014,"Sheikh Zayed Stadium, Abu Dhabi",Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,Group,Bat,205,4,206,4,Kings XI Punjab,Wickets,6,Glenn Maxwell
+4,18-04-2014,"Sheikh Zayed Stadium, Abu Dhabi",Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,Group,Field,133,6,135,6,Rajasthan Royals,Wickets,4,Ajinkya Rahane
+5,19-04-2014,Dubai International Cricket Stadium,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,Group,Field,115,9,116,3,Royal Challengers Bangalore,Wickets,7,Parthiv Patel
+6,19-04-2014,Dubai International Cricket Stadium,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,Group,Bat,166,5,167,6,Delhi Daredevils,Wickets,4,JP Duminy
+7,20-04-2014,Sharjah Cricket Stadium,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,Group,Field,191,5,193,3,Kings XI Punjab,Wickets,7,Glenn Maxwell
+8,21-04-2014,"Sheikh Zayed Stadium, Abu Dhabi",Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,Group,Bat,177,7,84,10,Chennai Super Kings,Runs,93,Suresh Raina
+9,22-04-2014,Sharjah Cricket Stadium,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,Group,Field,193,6,121,10,Kings XI Punjab,Runs,72,Glenn Maxwell
+10,23-04-2014,Dubai International Cricket Stadium,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Group,Field,140,6,133,10,Chennai Super Kings,Runs,7,Ravindra Jadeja
+11,24-04-2014,Sharjah Cricket Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Group,Field,150,7,148,5,Kolkata Knight Riders,Runs,2,Chris Lynn
+12,25-04-2014,Dubai International Cricket Stadium,Sunrisers Hyderabad,Delhi Daredevils,Sunrisers Hyderabad,Group,Bat,184,1,180,4,Sunrisers Hyderabad,Runs,4,Aaron Finch
+13,25-04-2014,Dubai International Cricket Stadium,Mumbai Indians,Chennai Super Kings,Mumbai Indians,Group,Bat,141,7,142,3,Chennai Super Kings,Wickets,7,Mohit Sharma
+14,26-04-2014,"Sheikh Zayed Stadium, Abu Dhabi",Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,Group,Field,70,10,71,4,Rajasthan Royals,Wickets,6,Pravin Tambe
+15,26-04-2014,"Sheikh Zayed Stadium, Abu Dhabi",Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,Group,Field,132,9,109,10,Kings XI Punjab,Runs,23,Sandeep Sharma
+16,27-04-2014,Sharjah Cricket Stadium,Mumbai Indians,Delhi Daredevils,Mumbai Indians,Group,Bat,125,6,126,4,Delhi Daredevils,Wickets,6,Murali Vijay
+17,27-04-2014,Sharjah Cricket Stadium,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Group,Bat,145,5,146,5,Chennai Super Kings,Wickets,5,Dwayne Smith
+18,28-04-2014,Dubai International Cricket Stadium,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,Group,Field,124,8,127,5,Kings XI Punjab,Wickets,5,Sandeep Sharma
+19,29-04-2014,"Sheikh Zayed Stadium, Abu Dhabi",Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,Group,Bat,152,5,152,8,Rajasthan Royals,Boundary count,,James Faulkner
+20,30-04-2014,Dubai International Cricket Stadium,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,Group,Field,172,5,157,7,Sunrisers Hyderabad,Runs,15,Bhuvneshwar Kumar
+21,02-05-2014,"JSCA International Cricket Stadium, Ranchi",Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Group,Bat,148,3,114,9,Chennai Super Kings,Runs,34,Ravindra Jadeja
+22,03-05-2014,"Wankhede Stadium, Mumbai",Kings XI Punjab,Mumbai Indians,Kings XI Punjab,Group,Bat,168,5,170,5,Mumbai Indians,Wickets,5,Corey Anderson
+23,03-05-2014,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,Group,Field,152,5,156,3,Rajasthan Royals,Wickets,7,Karun Nair
+24,04-05-2014,"M. Chinnaswamy Stadium, Bangalore",Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,Group,Field,155,6,158,6,Royal Challengers Bangalore,Wickets,4,AB de Villiers
+25,05-05-2014,"Sardar Patel Stadium, Ahmedabad",Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Group,Field,170,6,160,6,Rajasthan Royals,Runs,10,Pravin Tambe
+26,05-05-2014,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,Group,Field,178,5,181,2,Chennai Super Kings,Wickets,8,Dwayne Smith
+27,06-05-2014,"Wankhede Stadium, Mumbai",Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,Group,Field,187,5,168,8,Mumbai Indians,Runs,19,Rohit Sharma
+28,07-05-2014,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,Group,Bat,160,5,161,2,Kolkata Knight Riders,Wickets,8,Gautam Gambhir
+29,07-05-2014,"Barabati Stadium, Cuttack",Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,Group,Field,231,4,187,6,Kings XI Punjab,Runs,44,Glenn Maxwell
+30,08-05-2014,"Sardar Patel Stadium, Ahmedabad",Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,Group,Field,134,9,102,10,Sunrisers Hyderabad,Runs,32,Bhuvneshwar Kumar
+31,09-05-2014,"M. Chinnaswamy Stadium, Bangalore",Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,Group,Field,198,8,166,9,Kings XI Punjab,Runs,32,Sandeep Sharma
+32,10-05-2014,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Sunrisers Hyderabad,Sunrisers Hyderabad,Group,Field,143,7,44,2,Sunrisers Hyderabad,Wickets,8,Dale Steyn
+33,10-05-2014,"Wankhede Stadium, Mumbai",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Group,Field,157,6,160,6,Chennai Super Kings,Wickets,4,Dwayne Smith
+34,11-05-2014,"Barabati Stadium, Cuttack",Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,Group,Field,149,8,150,1,Kolkata Knight Riders,Wickets,9,Gautam Gambhir
+35,11-05-2014,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Group,Bat,190,5,191,5,Rajasthan Royals,Wickets,5,James Faulkner
+36,12-05-2014,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,Group,Bat,157,3,160,3,Mumbai Indians,Wickets,7,Ambati Rayudu
+37,13-05-2014,"JSCA International Cricket Stadium, Ranchi",Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Group,Bat,148,8,149,5,Chennai Super Kings,Wickets,5,Ravindra Jadeja
+38,13-05-2014,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,Group,Field,186,4,170,7,Royal Challengers Bangalore,Runs,16,Yuvraj Singh
+39,14-05-2014,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,Group,Field,205,5,211,4,Kings XI Punjab,Wickets,6,Wriddhiman Saha
+40,14-05-2014,"Barabati Stadium, Cuttack",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,Group,Field,141,5,142,4,Kolkata Knight Riders,Wickets,6,Robin Uthappa
+41,15-05-2014,"Sardar Patel Stadium, Ahmedabad",Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,Group,Field,201,6,139,9,Rajasthan Royals,Runs,62,Ajinkya Rahane
+42,18-05-2014,"JSCA International Cricket Stadium, Ranchi",Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Group,Bat,138,4,142,5,Royal Challengers Bangalore,Wickets,5,AB de Villiers
+43,18-05-2014,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Group,Bat,142,8,146,3,Kolkata Knight Riders,Wickets,7,Umesh Yadav
+44,19-05-2014,"Sardar Patel Stadium, Ahmedabad",Mumbai Indians,Rajasthan Royals,Mumbai Indians,Group,Bat,178,3,153,8,Mumbai Indians,Runs,25,Michael Hussey
+45,19-05-2014,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,Group,Field,164,7,165,6,Kings XI Punjab,Wickets,4,Axar Patel
+46,20-05-2014,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,Group,Bat,160,6,161,3,Sunrisers Hyderabad,Wickets,7,David Warner
+47,20-05-2014,"Eden Gardens, Kolkata",Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,Group,Field,154,4,156,2,Kolkata Knight Riders,Wickets,8,Robin Uthappa
+48,21-05-2014,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Mumbai Indians,Mumbai Indians,Group,Field,156,8,159,3,Mumbai Indians,Wickets,7,Lendl Simmons
+49,22-05-2014,"Eden Gardens, Kolkata",Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Group,Field,195,4,165,5,Kolkata Knight Riders,Runs,30,Robin Uthappa
+50,22-05-2014,"JSCA International Cricket Stadium, Ranchi",Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Group,Field,185,3,189,4,Sunrisers Hyderabad,Wickets,6,David Warner
+51,23-05-2014,"Wankhede Stadium, Mumbai",Mumbai Indians,Delhi Daredevils,Delhi Daredevils,Group,Field,173,10,158,4,Mumbai Indians,Runs,15,Michael Hussey
+52,23-05-2014,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,Group,Field,179,4,163,8,Kings XI Punjab,Runs,16,Shaun Marsh
+53,24-05-2014,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Group,Field,154,6,160,2,Chennai Super Kings,Wickets,8,Mahendra Singh Dhoni
+54,24-05-2014,"Eden Gardens, Kolkata",Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Group,Field,160,7,161,6,Kolkata Knight Riders,Wickets,4,Yusuf Pathan
+55,25-05-2014,"Punjab Cricket Association Stadium, Mohali",Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,Group,Field,115,10,119,3,Kings XI Punjab,Wickets,7,Manan Vohra
+56,25-05-2014,"Wankhede Stadium, Mumbai",Rajasthan Royals,Mumbai Indians,Mumbai Indians,Group,Field,189,4,195,5,Mumbai Indians,Wickets,5,Corey Anderson
+57,28-05-2014,"Eden Gardens, Kolkata",Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,Playoff,Field,163,8,135,8,Kolkata Knight Riders,Runs,28,Umesh Yadav
+58,28-05-2014,"Brabourne Stadium, Mumbai",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Playoff,Field,173,8,176,3,Chennai Super Kings,Wickets,7,Suresh Raina
+59,30-05-2014,"Wankhede Stadium, Mumbai",Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,Playoff,Field,226,6,202,7,Kings XI Punjab,Runs,24,Virender Sehwag
+60,01-06-2014,"M. Chinnaswamy Stadium, Bangalore",Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,Final,Field,199,4,200,7,Kolkata Knight Riders,Wickets,3,Manish Pandey

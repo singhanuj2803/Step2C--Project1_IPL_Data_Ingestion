@@ -1,0 +1,61 @@
+Match ID,Date,Venue,Team1,Team2,Toss Winner,Toss Decision,Stage,First Innings Score,First Innings Wicket,Second Innings score,Second Innings Wicket,Match Winner,Won by,Margin,Player of the match
+1,05-04-2017,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,207,4,172,10,Sunrisers Hyderabad,Runs,35,Yuvraj Singh
+2,06-04-2017,"Maharashtra Cricket Association Stadium, Pune",Mumbai Indians,Rising Pune Supergiants,Rising Pune Supergiants,Field,Group,184,8,187,3,Rising Pune Supergiants,Wickets,7,Steve Smith
+3,07-04-2017,"Saurashtra Cricket Association Stadium, Rajkot",Gujarat Lions,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,183,4,184,0,Kolkata Knight Riders,Wickets,10,Chris Lynn
+4,08-04-2017,"Holkar Cricket Stadium, Indore",Rising Pune Supergiants,Kings XI Punjab,Kings XI Punjab,Field,Group,163,6,164,4,Kings XI Punjab,Wickets,6,Glenn Maxwell
+5,08-04-2017,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,Bat,Group,157,8,142,9,Royal Challengers Bangalore,Runs,15,Kedar Jadhav
+6,09-04-2017,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,135,7,140,1,Sunrisers Hyderabad,Wickets,9,Rashid Khan
+7,09-04-2017,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Field,Group,178,7,180,6,Mumbai Indians,Wickets,4,Nitish Rana
+8,10-04-2017,"Holkar Cricket Stadium, Indore",Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,Bat,Group,148,4,150,2,Kings XI Punjab,Wickets,8,Axar Patel
+9,11-04-2017,"Maharashtra Cricket Association Stadium, Pune",Delhi Daredevils,Rising Pune Supergiants,Rising Pune Supergiants,Field,Group,205,4,108,10,Delhi Daredevils,Runs,97,Sanju Samson
+10,12-04-2017,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,Field,Group,158,8,159,6,Mumbai Indians,Wickets,4,Jasprit Bumrah
+11,13-04-2017,"Eden Gardens, Kolkata",Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,170,9,171,2,Kolkata Knight Riders,Wickets,8,Sunil Narine
+12,14-04-2017,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Field,Group,142,5,145,6,Mumbai Indians,Wickets,4,Kieron Pollard
+13,14-04-2017,"Saurashtra Cricket Association Stadium, Rajkot",Rising Pune Supergiants,Gujarat Lions,Gujarat Lions,Field,Group,171,8,172,3,Gujarat Lions,Wickets,7,Andrew Tye
+14,15-04-2017,"Eden Gardens, Kolkata",Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,172,6,155,6,Kolkata Knight Riders,Runs,17,Robin Uthappa
+15,15-04-2017,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,Bat,Group,188,6,137,9,Delhi Daredevils,Runs,51,Corey Anderson
+16,16-04-2017,"Wankhede Stadium, Mumbai",Gujarat Lions,Mumbai Indians,Mumbai Indians,Field,Group,176,4,177,4,Mumbai Indians,Wickets,6,Nitish Rana
+17,16-04-2017,"M. Chinnaswamy Stadium, Bangalore",Rising Pune Supergiants,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,161,8,134,9,Rising Pune Supergiants,Runs,27,Ben Stokes
+18,17-04-2017,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,Bat,Group,168,7,169,6,Kolkata Knight Riders,Wickets,4,Manish Pandey
+19,17-04-2017,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,Field,Group,159,6,154,10,Sunrisers Hyderabad,Runs,5,Bhuvneshwar Kumar
+20,18-04-2017,"Saurashtra Cricket Association Stadium, Rajkot",Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,Field,Group,213,2,192,7,Royal Challengers Bangalore,Runs,21,Chris Gayle
+21,19-04-2017,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Delhi Daredevils,Sunrisers Hyderabad,Bat,Group,191,4,176,5,Sunrisers Hyderabad,Runs,15,Kane Williamson
+22,20-04-2017,"Holkar Cricket Stadium, Indore",Kings XI Punjab,Mumbai Indians,Delhi Daredevils,Field,Group,198,4,199,2,Mumbai Indians,Wickets,8,Jos Buttler
+23,21-04-2017,"Eden Gardens, Kolkata",Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,Field,Group,187,5,188,6,Gujarat Lions,Wickets,4,Suresh Raina
+24,22-04-2017,"Maharashtra Cricket Association Stadium, Pune",Sunrisers Hyderabad,Rising Pune Supergiants,Rising Pune Supergiants,Field,Group,176,3,179,4,Rising Pune Supergiants,Wickets,6,Mahendra Singh Dhoni
+25,22-04-2017,"Wankhede Stadium, Mumbai",Mumbai Indians,Delhi Daredevils,Delhi Daredevils,Field,Group,142,8,128,7,Mumbai Indians,Runs,14,Mitchell McClenaghan
+26,23-04-2017,"Saurashtra Cricket Association Stadium, Rajkot",Kings XI Punjab,Gujarat Lions,Gujarat Lions,Field,Group,188,7,162,7,Kings XI Punjab,Runs,26,Hashim Amla
+27,23-04-2017,"Eden Gardens, Kolkata",Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,131,10,49,10,Kolkata Knight Riders,Runs,82,Nathan Coulter-Nile
+28,24-04-2017,"Wankhede Stadium, Mumbai",Rising Pune Supergiants,Mumbai Indians,Mumbai Indians,Field,Group,160,6,157,8,Rising Pune Supergiants,Runs,3,Ben Stokes
+29,25-04-2017,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Sunrisers Hyderabad,,,,,,,,,,,
+30,26-04-2017,"Maharashtra Cricket Association Stadium, Pune",Rising Pune Supergiants,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,182,5,184,3,Kolkata Knight Riders,Wickets,7,Robin Uthappa
+31,27-04-2017,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,Field,Group,134,10,135,3,Gujarat Lions,Wickets,7,Andrew Tye
+32,28-04-2017,"Eden Gardens, Kolkata",Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,160,6,161,3,Kolkata Knight Riders,Wickets,7,Gautam Gambhir
+33,28-04-2017,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,Field,Group,207,3,181,9,Sunrisers Hyderabad,Runs,26,Rashid Khan
+34,29-04-2017,"Maharashtra Cricket Association Stadium, Pune",Rising Pune Supergiants,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,157,3,96,9,Rising Pune Supergiants,Runs,61,Lockie Ferguson
+35,29-04-2017,"Saurashtra Cricket Association Stadium, Rajkot",Gujarat Lions,Mumbai Indians,Gujarat Lions,Bat,Group,153,9,153,10,Mumbai Indians,Super Over,,Krunal Pandya
+36,30-04-2017,"Punjab Cricket Association Stadium, Mohali",Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,Field,Group,67,10,68,0,Kings XI Punjab,Wickets,10,Sandeep Sharma
+37,30-04-2017,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,209,3,161,7,Sunrisers Hyderabad,Runs,48,David Warner
+38,01-05-2017,"Wankhede Stadium, Mumbai",Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,Bat,Group,162,8,165,5,Mumbai Indians,Wickets,5,Rohit Sharma
+39,01-05-2017,"Maharashtra Cricket Association Stadium, Pune",Gujarat Lions,Rising Pune Supergiants,Rising Pune Supergiants,Field,Group,161,10,167,5,Rising Pune Supergiants,Wickets,5,Ben Stokes
+40,02-05-2017,"Feroz Shah Kotla, Delhi",Sunrisers Hyderabad,Delhi Daredevils,Delhi Daredevils,Field,Group,185,3,189,4,Delhi Daredevils,Wickets,6,Mohammed Shami
+41,03-05-2017,"Eden Gardens, Kolkata",Kolkata Knight Riders,Rising Pune Supergiants,Rising Pune Supergiants,Field,Group,155,8,158,6,Rising Pune Supergiants,Wickets,4,Rahul Tripathi
+42,04-05-2017,"Feroz Shah Kotla, Delhi",Gujarat Lions,Delhi Daredevils,Delhi Daredevils,Field,Group,208,7,214,3,Delhi Daredevils,Wickets,7,Rishabh Pant
+43,05-05-2017,"M. Chinnaswamy Stadium, Bangalore",Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,138,7,119,10,Kings XI Punjab,Runs,19,Sandeep Sharma
+44,06-05-2017,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Rising Pune Supergiants,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,148,8,136,9,Rising Pune Supergiants,Runs,12,Jaydev Unadkat
+45,06-05-2017,"Feroz Shah Kotla, Delhi",Mumbai Indians,Delhi Daredevils,Delhi Daredevils,Field,Group,212,3,66,10,Mumbai Indians,Runs,146,Lendl Simmons
+46,07-05-2017,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,158,6,159,4,Kolkata Knight Riders,Wickets,6,Sunil Narine
+47,07-05-2017,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Gujarat Lions,Gujarat Lions,Field,Group,189,3,192,4,Gujarat Lions,Wickets,6,Dwayne Smith
+48,08-05-2017,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Bat,Group,138,7,140,3,Sunrisers Hyderabad,Wickets,7,Shikhar Dhawan
+49,09-05-2017,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,167,6,153,6,Kings XI Punjab,Runs,14,Mohit Sharma
+50,10-05-2017,"Green Park Stadium, Kanpur",Gujarat Lions,Delhi Daredevils,Delhi Daredevils,Field,Group,195,5,197,8,Delhi Daredevils,Wickets,2,Shreyas Iyer
+51,11-05-2017,"Wankhede Stadium, Mumbai",Kings XI Punjab,Mumbai Indians,Mumbai Indians,Field,Group,230,3,223,6,Kings XI Punjab,Runs,7,Wriddhiman Saha
+52,12-05-2017,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Rising Pune Supergiants,Delhi Daredevils,Bat,Group,168,8,161,7,Delhi Daredevils,Runs,7,Karun Nair
+53,13-05-2017,"Green Park Stadium, Kanpur",Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,154,10,158,2,Sunrisers Hyderabad,Wickets,8,Mohammed Siraj
+54,13-05-2017,"Eden Gardens, Kolkata",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,173,5,164,8,Mumbai Indians,Runs,9,Ambati Rayudu
+55,14-05-2017,"Maharashtra Cricket Association Stadium, Pune",Kings XI Punjab,Rising Pune Supergiants,Rising Pune Supergiants,Field,Group,73,10,78,1,Rising Pune Supergiants,Wickets,9,Jaydev Unadkat
+56,14-05-2017,"Feroz Shah Kotla, Delhi",Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,Bat,Group,161,6,151,10,Royal Challengers Bangalore,Runs,10,Harshal Patel
+57,16-05-2017,"Wankhede Stadium, Mumbai",Rising Pune Supergiants,Mumbai Indians,Mumbai Indians,Field,Playoff,162,4,142,9,Rising Pune Supergiants,Runs,20,Washington Sundar
+58,17-05-2017,"M. Chinnaswamy Stadium, Bangalore",Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Field,Playoff,128,7,48,3,Kolkata Knight Riders,Wickets,7,Nathan Coulter-Nile
+59,19-05-2017,"M. Chinnaswamy Stadium, Bangalore",Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Field,Playoff,107,10,111,4,Mumbai Indians,Wickets,6,Karn Sharma
+60,21-05-2017,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Mumbai Indians,Rising Pune Supergiants,Mumbai Indians,Bat,Final,129,8,128,6,Mumbai Indians,Runs,1,Krunal Pandya

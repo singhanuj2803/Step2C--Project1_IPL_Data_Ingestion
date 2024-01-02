@@ -1,0 +1,61 @@
+Match ID,Date,Venue,Team1,Team2,Toss Winner,Toss Decision,Stage,First Innings Score,First Innings Wicket,Second Innings score,Second Innings Wicket,Match Winner,Won by,Margin,Player of the match
+1,23-03-2019,"M. A. Chidambaram Stadium, Chennai",Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Field,Group,70,10,71,3,Chennai Super Kings,Wickets,7,Harbhajan Singh
+2,24-03-2019,"Eden Gardens, Kolkata",Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,181,3,183,4,Kolkata Knight Riders,Wickets,6,Andre Russell
+3,24-03-2019,"Wankhede Stadium, Mumbai",Delhi Capitals,Mumbai Indians,Mumbai Indians,Field,Group,213,6,176,10,Delhi Capitals,Runs,37,Rishabh Pant
+4,25-03-2019,"Sawai Mansingh Stadium, Jaipur",Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,Field,Group,184,4,170,9,Kings XI Punjab,Runs,14,Chris Gayle
+5,26-03-2019,"Feroz Shah Kotla, Delhi",Delhi Capitals,Chennai Super Kings,Delhi Capitals,Bat,Group,147,6,150,4,Chennai Super Kings,Wickets,6,Shane Watson
+6,27-03-2019,"Eden Gardens, Kolkata",Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,Field,Group,218,4,190,4,Kolkata Knight Riders,Runs,28,Andre Russell
+7,28-03-2019,"M. Chinnaswamy Stadium, Bangalore",Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,187,8,181,5,Mumbai Indians,Runs,6,Jasprit Bumrah
+8,29-03-2019,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,Bat,Group,198,2,201,5,Sunrisers Hyderabad,Wickets,5,Rashid Khan
+9,30-03-2019,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Kings XI Punjab,Kings XI Punjab,Field,Group,176,7,177,2,Kings XI Punjab,Wickets,8,Mayank Agarwal
+10,30-03-2019,"Feroz Shah Kotla, Delhi",Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,Field,Group,185,8,185,6,Delhi Capitals,Super Over,,Prithvi Shaw
+11,31-03-2019,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,231,2,113,10,Sunrisers Hyderabad,Runs,118,Jonny Bairstow
+12,31-03-2019,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Field,Group,175,5,167,8,Chennai Super Kings,Runs,8,Mahendra Singh Dhoni
+13,01-04-2019,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Delhi Capitals,Delhi Capitals,Field,Group,166,9,152,10,Kings XI Punjab,Runs,14,Sam Curran
+14,02-04-2019,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,Field,Group,158,4,164,3,Rajasthan Royals,Wickets,7,Shreyas Gopal
+15,03-04-2019,"Wankhede Stadium, Mumbai",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Field,Group,170,5,133,8,Mumbai Indians,Runs,37,Hardik Pandya
+16,04-04-2019,"Feroz Shah Kotla, Delhi",Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,129,8,131,5,Sunrisers Hyderabad,Wickets,5,Jonny Bairstow
+17,05-04-2019,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,205,3,206,5,Kolkata Knight Riders,Wickets,5,Andre Russell
+18,06-04-2019,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,Bat,Group,160,3,138,5,Chennai Super Kings,Runs,22,Harbhajan Singh
+19,06-04-2019,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,136,7,96,10,Mumbai Indians,Runs,40,Alzarri Joseph
+20,07-04-2019,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,Field,Group,149,8,152,6,Delhi Capitals,Wickets,4,Kagiso Rabada
+21,07-04-2019,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,139,3,140,2,Kolkata Knight Riders,Wickets,8,Harry Gurney
+22,08-04-2019,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,Field,Group,150,4,151,4,Kings XI Punjab,Wickets,6,K. L. Rahul
+23,09-04-2019,"M. A. Chidambaram Stadium, Chennai",Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,Field,Group,108,9,111,3,Chennai Super Kings,Wickets,7,Deepak Chahar
+24,10-04-2019,"Wankhede Stadium, Mumbai",Kings XI Punjab,Mumbai Indians,Mumbai Indians,Field,Group,197,4,198,7,Mumbai Indians,Wickets,3,Kieron Pollard
+25,11-04-2019,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,Field,Group,151,7,155,6,Chennai Super Kings,Wickets,4,Mahendra Singh Dhoni
+26,12-04-2019,"Eden Gardens, Kolkata",Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,Field,Group,178,7,180,3,Delhi Capitals,Wickets,7,Shikhar Dhawan
+27,13-04-2019,"Wankhede Stadium, Mumbai",Mumbai Indians,Rajasthan Royals,Rajasthan Royals,Field,Group,187,5,188,6,Rajasthan Royals,Wickets,4,Jos Buttler
+28,13-04-2019,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,173,4,174,2,Royal Challengers Bangalore,Wickets,8,AB de Villiers
+29,14-04-2019,"Eden Gardens, Kolkata",Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,Field,Group,161,8,162,5,Chennai Super Kings,Wickets,5,Imran Tahir
+30,14-04-2019,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,155,7,116,10,Delhi Capitals,Runs,39,Keemo Paul
+31,15-04-2019,"Wankhede Stadium, Mumbai",Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Field,Group,171,7,172,5,Mumbai Indians,Wickets,5,Lasith Malinga
+32,16-04-2019,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,Field,Group,182,6,170,7,Kings XI Punjab,Runs,12,Ravichandran Ashwin
+33,17-04-2019,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,Bat,Group,132,5,137,4,Sunrisers Hyderabad,Wickets,6,David Warner
+34,18-04-2019,"Feroz Shah Kotla, Delhi",Mumbai Indians,Delhi Capitals,Mumbai Indians,Bat,Group,168,5,128,9,Mumbai Indians,Runs,40,Hardik Pandya
+35,19-04-2019,"Eden Gardens, Kolkata",Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,213,4,203,5,Royal Challengers Bangalore,Runs,10,Virat Kohli
+36,20-04-2019,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,Rajasthan Royals,Rajasthan Royals,Field,Group,161,5,162,5,Rajasthan Royals,Wickets,5,Steve Smith
+37,20-04-2019,"Feroz Shah Kotla, Delhi",Kings XI Punjab,Delhi Capitals,Delhi Capitals,Field,Group,163,7,166,5,Delhi Capitals,Wickets,5,Shreyas Iyer
+38,21-04-2019,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,159,8,161,1,Sunrisers Hyderabad,Wickets,9,Khaleel Ahmed
+39,21-04-2019,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Field,Group,161,7,160,8,Royal Challengers Bangalore,Runs,1,Parthiv Patel
+40,22-04-2019,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Delhi Capitals,Delhi Capitals,Field,Group,191,6,193,4,Delhi Capitals,Wickets,6,Rishabh Pant
+41,23-04-2019,"M. A. Chidambaram Stadium, Chennai",Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,Field,Group,175,3,176,4,Chennai Super Kings,Wickets,6,Shane Watson
+42,24-04-2019,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,Field,Group,202,4,185,7,Royal Challengers Bangalore,Runs,17,AB de Villiers
+43,25-04-2019,"Eden Gardens, Kolkata",Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Field,Group,175,6,177,7,Rajasthan Royals,Wickets,3,Varun Aaron
+44,26-04-2019,"M. A. Chidambaram Stadium, Chennai",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Field,Group,155,4,109,10,Mumbai Indians,Runs,46,Rohit Sharma
+45,27-04-2019,"Sawai Mansingh Stadium, Jaipur",Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,Field,Group,160,8,161,3,Rajasthan Royals,Wickets,7,Jaydev Unadkat
+46,28-04-2019,"Feroz Shah Kotla, Delhi",Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,Bat,Group,187,5,171,7,Delhi Capitals,Runs,16,Shikhar Dhawan
+47,28-04-2019,"Eden Gardens, Kolkata",Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Field,Group,232,2,198,7,Kolkata Knight Riders,Runs,34,Andre Russell
+48,29-04-2019,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,Field,Group,212,6,167,8,Sunrisers Hyderabad,Runs,45,David Warner
+49,30-04-2019,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,Field,Group,62,7,41,1,,,,
+50,01-05-2019,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Delhi Capitals,Delhi Capitals,Field,Group,179,4,99,10,Chennai Super Kings,Runs,80,Mahendra Singh Dhoni
+51,02-05-2019,"Wankhede Stadium, Mumbai",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Bat,Group,162,5,162,6,Mumbai Indians,Super Over,,Jasprit Bumrah
+52,03-05-2019,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,183,6,185,3,Kolkata Knight Riders,Wickets,7,Shubman Gill
+53,04-05-2019,"Feroz Shah Kotla, Delhi",Rajasthan Royals,Delhi Capitals,Rajasthan Royals,Bat,Group,115,9,121,5,Delhi Capitals,Wickets,5,Amit Mishra
+54,04-05-2019,"M. Chinnaswamy Stadium, Bangalore",Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,175,7,178,6,Royal Challengers Bangalore,Wickets,4,Shimron Hetmyer
+55,05-05-2019,"Punjab Cricket Association Stadium, Mohali",Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,Field,Group,170,5,173,4,Kings XI Punjab,Wickets,6,K. L. Rahul
+56,05-05-2019,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Field,Group,133,7,134,1,Mumbai Indians,Wickets,9,Hardik Pandya
+57,07-05-2019,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Bat,Playoff,131,4,132,4,Mumbai Indians,Wickets,6,Suryakumar Yadav
+58,08-05-2019,"ACA-VDCA Stadium, Visakhapatnam",Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,Field,Playoff,162,8,165,8,Delhi Capitals,Wickets,2,Rishabh Pant
+59,10-05-2019,"ACA-VDCA Stadium, Visakhapatnam",Delhi Capitals,Chennai Super Kings,Chennai Super Kings,Field,Playoff,147,9,151,4,Chennai Super Kings,Wickets,6,Faf du Plessis
+60,12-05-2019,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Mumbai Indians,Chennai Super Kings,Mumbai Indians,Bat,Final,149,8,148,7,Mumbai Indians,Runs,1,Jasprit Bumrah

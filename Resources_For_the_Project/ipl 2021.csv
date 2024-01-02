@@ -1,0 +1,61 @@
+Match ID,Date,Venue,Team1,Team2,Toss Winner,Toss Decision,Stage,First Innings Score,First Innings Wicket,Second Innings score,Second Innings Wicket,Match Winner,Won by,Margin,Player of the match
+1,09-04-2021,"M. A. Chidambaram Stadium, Chennai",Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,159,9,160,8,Royal Challengers Bangalore,Wickets,2,Harshal Patel
+2,10-04-2021,"Wankhede Stadium, Mumbai",Chennai Super Kings,Delhi Capitals,Delhi Capitals,Field,Group,188,7,190,3,Delhi Capitals,Wickets,7,Shikhar Dhawan
+3,11-04-2021,"M. A. Chidambaram Stadium, Chennai",Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,187,6,177,5,Kolkata Knight Riders,Runs,10,Nitish Rana
+4,12-04-2021,"Wankhede Stadium, Mumbai",Punjab Kings,Rajasthan Royals,Rajasthan Royals,Field,Group,221,6,217,7,Punjab Kings,Runs,4,Sanju Samson
+5,13-04-2021,"M. A. Chidambaram Stadium, Chennai",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,152,10,142,7,Mumbai Indians,Runs,10,Rahul Chahar
+6,14-04-2021,"M. A. Chidambaram Stadium, Chennai",Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,149,8,143,9,Royal Challengers Bangalore,Runs,6,Glenn Maxwell
+7,15-04-2021,"Wankhede Stadium, Mumbai",Delhi Capitals,Rajasthan Royals,Rajasthan Royals,Field,Group,147,8,150,7,Rajasthan Royals,Wickets,3,Jaydev Unadkat
+8,16-04-2021,"Wankhede Stadium, Mumbai",Punjab Kings,Chennai Super Kings,Chennai Super Kings,Field,Group,106,8,107,4,Chennai Super Kings,Wickets,6,Deepak Chahar
+9,17-04-2021,"M. A. Chidambaram Stadium, Chennai",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Bat,Group,150,5,137,10,Mumbai Indians,Runs,13,Kieron Pollard
+10,18-04-2021,"M. A. Chidambaram Stadium, Chennai",Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Bat,Group,204,4,166,8,Royal Challengers Bangalore,Runs,38,AB de Villiers
+11,18-04-2021,"Wankhede Stadium, Mumbai",Punjab Kings,Delhi Capitals,Delhi Capitals,Field,Group,195,4,198,4,Delhi Capitals,Wickets,6,Shikhar Dhawan
+12,19-04-2021,"Wankhede Stadium, Mumbai",Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Field,Group,188,9,143,9,Chennai Super Kings,Runs,45,Moeen Ali
+13,20-04-2021,"M. A. Chidambaram Stadium, Chennai",Mumbai Indians,Delhi Capitals,Mumbai Indians,Bat,Group,137,9,138,4,Delhi Capitals,Wickets,6,Amit Mishra
+14,21-04-2021,"M. A. Chidambaram Stadium, Chennai",Punjab Kings,Sunrisers Hyderabad,Punjab Kings,Bat,Group,120,10,121,1,Sunrisers Hyderabad,Wickets,9,Jonny Bairstow
+15,21-04-2021,"Wankhede Stadium, Mumbai",Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,220,3,202,10,Chennai Super Kings,Runs,18,Faf du Plessis
+16,22-04-2021,"Wankhede Stadium, Mumbai",Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,177,9,181,0,Royal Challengers Bangalore,Wickets,10,Devdutt Padikkal
+17,23-04-2021,"M. A. Chidambaram Stadium, Chennai",Mumbai Indians,Punjab Kings,Punjab Kings,Field,Group,131,6,132,1,Punjab Kings,Wickets,9,K. L. Rahul
+18,24-04-2021,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Field,Group,133,9,134,4,Rajasthan Royals,Wickets,6,Chris Morris
+19,25-04-2021,"Wankhede Stadium, Mumbai",Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Bat,Group,191,4,122,9,Chennai Super Kings,Runs,69,Ravindra Jadeja
+20,25-04-2021,"M. A. Chidambaram Stadium, Chennai",Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,Bat,Group,159,4,159,7,Delhi Capitals,Super Over,,Prithvi Shaw
+21,26-04-2021,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,123,9,126,5,Kolkata Knight Riders,Wickets,5,Eoin Morgan
+22,27-04-2021,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,Field,Group,171,5,170,4,Royal Challengers Bangalore,Runs,1,AB de Villiers
+23,28-04-2021,"Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Bat,Group,171,3,173,3,Chennai Super Kings,Wickets,7,Ruturaj Gaikwad
+24,29-04-2021,"Arun Jaitley Stadium, Delhi",Rajasthan Royals,Mumbai Indians,Mumbai Indians,Field,Group,171,4,172,3,Mumbai Indians,Wickets,7,Quinton de Kock
+25,29-04-2021,"Narendra Modi Stadium, Ahmedabad",Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,Field,Group,154,6,156,3,Delhi Capitals,Wickets,7,Prithvi Shaw
+26,30-04-2021,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,179,5,145,8,Punjab Kings,Runs,34,Harpreet Brar
+27,01-05-2021,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Mumbai Indians,Mumbai Indians,Field,Group,218,4,219,6,Mumbai Indians,Wickets,4,Kieron Pollard
+28,02-05-2021,"Arun Jaitley Stadium, Delhi",Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,220,3,165,8,Rajasthan Royals,Runs,55,Jos Buttler
+29,02-05-2021,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,Delhi Capitals,Delhi Capitals,Field,Group,166,6,167,3,Delhi Capitals,Wickets,7,Mayank Agarwal
+30,19-09-2021,"Dubai International Cricket Stadium, Dubai",Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Bat,Group,156,6,136,8,Chennai Super Kings,Runs,20,Ruturaj Gaikwad
+31,20-09-2021,"Sheikh Zayed Cricket Stadium, Abu Dhabi",Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Bat,Group,92,10,94,1,Kolkata Knight Riders,Wickets,9,Varun Chakravarthy
+32,21-09-2021,"Dubai International Cricket Stadium, Dubai",Rajasthan Royals,Punjab Kings,Punjab Kings,Field,Group,185,10,183,4,Rajasthan Royals,Runs,2,Kartik Tyagi
+33,22-09-2021,"Dubai International Cricket Stadium, Dubai",Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,Bat,Group,134,9,139,2,Delhi Capitals,Wickets,8,Anrich Nortje
+34,23-09-2021,"Sheikh Zayed Cricket Stadium, Abu Dhabi",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,155,6,159,3,Kolkata Knight Riders,Wickets,7,Sunil Narine
+35,24-09-2021,"Sharjah Cricket Stadium, Sharjah",Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Field,Group,156,6,157,4,Chennai Super Kings,Wickets,6,Dwayne Bravo
+36,25-09-2021,"Sheikh Zayed Cricket Stadium, Abu Dhabi",Delhi Capitals,Rajasthan Royals,Rajasthan Royals,Field,Group,154,6,121,6,Delhi Capitals,Runs,33,Shreyas Iyer
+37,25-09-2021,"Sharjah Cricket Stadium, Sharjah",Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,125,7,120,7,Punjab Kings,Runs,5,Jason Holder
+38,26-09-2021,"Sheikh Zayed Cricket Stadium, Abu Dhabi",Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,Bat,Group,171,6,172,8,Chennai Super Kings,Wickets,2,Ravindra Jadeja
+39,26-09-2021,"Dubai International Cricket Stadium, Dubai",Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Field,Group,165,6,111,10,Royal Challengers Bangalore,Runs,54,Glenn Maxwell
+40,27-09-2021,"Dubai International Cricket Stadium, Dubai",Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,Bat,Group,164,5,167,3,Sunrisers Hyderabad,Wickets,7,Jason Roy
+41,28-09-2021,"Sharjah Cricket Stadium, Sharjah",Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,127,9,130,7,Kolkata Knight Riders,Wickets,3,Sunil Narine
+42,28-09-2021,"Sheikh Zayed Cricket Stadium, Abu Dhabi",Punjab Kings,Mumbai Indians,Mumbai Indians,Field,Group,135,6,137,4,Mumbai Indians,Wickets,6,Kieron Pollard
+43,29-09-2021,"Dubai International Cricket Stadium, Dubai",Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,149,9,153,3,Royal Challengers Bangalore,Wickets,7,Yuzvendra Chahal
+44,30-09-2021,"Sharjah Cricket Stadium, Sharjah",Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,Field,Group,134,7,139,4,Chennai Super Kings,Wickets,6,Josh Hazlewood
+45,01-10-2021,"Dubai International Cricket Stadium, Dubai",Kolkata Knight Riders,Punjab Kings,Punjab Kings,Field,Group,165,7,168,5,Punjab Kings,Wickets,5,K. L. Rahul
+46,02-10-2021,"Sharjah Cricket Stadium, Sharjah",Mumbai Indians,Delhi Capitals,Delhi Capitals,Field,Group,129,8,132,6,Delhi Capitals,Wickets,4,Axar Patel
+47,02-10-2021,"Sheikh Zayed Cricket Stadium, Abu Dhabi",Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Field,Group,189,4,190,3,Rajasthan Royals,Wickets,7,Ruturaj Gaikwad
+48,03-10-2021,"Sharjah Cricket Stadium, Sharjah",Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,Bat,Group,164,7,158,6,Royal Challengers Bangalore,Runs,6,Glenn Maxwell
+49,03-10-2021,"Dubai International Cricket Stadium, Dubai",Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Bat,Group,115,8,119,4,Kolkata Knight Riders,Wickets,6,Shubman Gill
+50,04-10-2021,"Dubai International Cricket Stadium, Dubai",Chennai Super Kings,Delhi Capitals,Delhi Capitals,Field,Group,136,5,139,7,Delhi Capitals,Wickets,3,Axar Patel
+51,05-10-2021,"Sharjah Cricket Stadium, Sharjah",Rajasthan Royals,Mumbai Indians,Mumbai Indians,Field,Group,90,9,94,2,Mumbai Indians,Wickets,8,Nathan Coulter-Nile
+52,06-10-2021,"Sheikh Zayed Cricket Stadium, Abu Dhabi",Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,141,7,137,6,Sunrisers Hyderabad,Runs,4,Kane Williamson
+53,07-10-2021,"Dubai International Cricket Stadium, Dubai",Chennai Super Kings,Punjab Kings,Punjab Kings,Field,Group,134,6,139,4,Punjab Kings,Wickets,6,K. L. Rahul
+54,07-10-2021,"Sharjah Cricket Stadium, Sharjah",Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Field,Group,171,4,85,10,Kolkata Knight Riders,Runs,86,Shivam Mavi
+55,08-10-2021,"Sheikh Zayed Cricket Stadium, Abu Dhabi",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Bat,Group,235,9,193,8,Mumbai Indians,Runs,42,Ishan Kishan
+56,08-10-2021,"Dubai International Cricket Stadium, Dubai",Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,164,5,166,3,Royal Challengers Bangalore,Wickets,7,K. S. Bharat
+57,10-10-2021,"Dubai International Cricket Stadium, Dubai",Delhi Capitals,Chennai Super Kings,Chennai Super Kings,Field,Playoff,172,5,173,6,Chennai Super Kings,Wickets,4,Ruturaj Gaikwad
+58,11-10-2021,"Sharjah Cricket Stadium, Sharjah",Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Bat,Playoff,138,7,139,6,Kolkata Knight Riders,Wickets,4,Sunil Narine
+59,13-10-2021,"Sharjah Cricket Stadium, Sharjah",Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,Field,Playoff,135,5,136,7,Kolkata Knight Riders,Wickets,3,Venkatesh Iyer
+60,15-10-2021,"Dubai International Cricket Stadium, Dubai",Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,Field,Final,192,3,165,9,Chennai Super Kings,Runs,27,Faf du Plessis

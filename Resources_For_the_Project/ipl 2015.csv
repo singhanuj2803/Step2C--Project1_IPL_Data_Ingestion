@@ -1,0 +1,61 @@
+Match ID,Date,Venue,Team1,Team2,Toss Winner,Toss Decision,Stage,First Innings Score,First Innings Wicket,Second Innings score,Second Innings Wicket,Match Winner,Won by,Margin,Player of the match
+1,08-04-2015,"Eden Gardens, Kolkata",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,168,3,170,3,Kolkata Knight Riders,Wickets,7,Morne Morkel
+2,09-04-2015,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,Field,Group,150,7,149,9,Chennai Super Kings,Run,1,Ashish Nehra
+3,10-04-2015,"MCA Stadium, Pune",Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,Field,Group,162,7,136,8,Rajasthan Royals,Runs,26,James Faulkner
+4,11-04-2015,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,Bat,Group,209,4,164,6,Chennai Super Kings,Runs,45,Brendon McCullum
+5,11-04-2015,"Eden Gardens, Kolkata",Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,177,6,179,7,Royal Challengers Bangalore,Wickets,3,Chris Gayle
+6,12-04-2015,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,Field,Group,184,3,186,7,Rajasthan Royals,Wickets,3,Deepak Hooda
+7,12-04-2015,"Wankhede Stadium, Mumbai",Kings XI Punjab,Mumbai Indians,Mumbai Indians,Field,Group,177,5,159,7,Kings XI Punjab,Runs,18,George Bailey
+8,13-04-2015,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,166,10,172,2,Sunrisers Hyderabad,Wickets,8,David Warner 
+9,14-04-2015,"Sardar Patel Stadium, Ahmedabad",Mumbai Indians,Rajasthan Royals,Mumbai Indians,Bat,Group,164,5,165,3,Rajasthan Royals,Wickets,7,Steve Smith
+10,15-04-2015,"MCA Stadium, Pune",Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,Bat,Group,165,7,169,5,Delhi Daredevils,Wickets,5,Mayank Agarwal
+11,16-04-2015,"ACA-VDCA Stadium, Visakhapatnam",Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,Field,Group,127,5,131,4,Rajasthan Royals,Wickets,6,Ajinkya Rahane
+12,17-04-2015,"Wankhede Stadium, Mumbai",Mumbai Indians,Chennai Super Kings,Mumbai Indians,Bat,Group,183,7,189,4,Chennai Super Kings,Wickets,6,Ashish Nehra
+13,18-04-2015,"ACA-VDCA Stadium, Visakhapatnam",Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,Bat,Group,167,4,163,8,Delhi Daredevils,Runs,4,JP Duminy
+14,18-04-2015,"MCA Stadium, Pune",Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,155,9,159,6,Kolkata Knight Riders,Wickets,4,Andre Russell
+15,19-04-2015,"Sardar Patel Stadium, Ahmedabad",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,Bat,Group,156,4,157,2,Rajasthan Royals,Wickets,8,Ajinkya Rahane
+16,19-04-2015,"M. Chinnaswamy Stadium, Bangalore",Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,209,7,191,7,Mumbai Indians,Runs,18,Harbhajan Singh
+17,20-04-2015,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,146,8,147,4,Kolkata Knight Riders,Wickets,6,Umesh Yadav
+18,21-04-2015,"Sardar Patel Stadium, Ahmedabad",Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,Field,Group,191,6,191,6,Kings XI Punjab,Super Over,,Shaun Marsh
+19,22-04-2015,"ACA-VDCA Stadium, Visakhapatnam",Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,176,4,101,4,Sunrisers Hyderabad,Runs,16,David Warner 
+20,22-04-2015,"M. Chinnaswamy Stadium, Bangalore",Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,181,8,154,8,Chennai Super Kings,Runs,27,Suresh Raina
+21,23-04-2015,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Mumbai Indians,Mumbai Indians,Field,Group,190,4,153,9,Delhi Daredevils,Runs,37,Shreyas Iyer
+22,24-04-2015,"Sardar Patel Stadium, Ahmedabad",Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,130,9,134,1,Royal Challengers Bangalore,Wickets,9,Mitchell Starc
+23,25-04-2015,"Wankhede Stadium, Mumbai",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Bat,Group,157,8,137,8,Mumbai Indians,Runs,20,Lasith Malinga
+24,25-04-2015,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,Bat,Group,192,3,95,9,Chennai Super Kings,Runs,97,Brendon McCullum
+25,26-04-2015,"Eden Gardens, Kolkata",Kolkata Knight Riders,Rajasthan Royals,,,,,,,,,,,
+26,26-04-2015,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,95,10,99,0,Royal Challengers Bangalore,Wickets,10,Varun Aaron
+27,27-04-2015,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,Field,Group,150,6,130,9,Sunrisers Hyderabad,Runs,20,Trent Boult
+28,28-04-2015,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,134,6,132,9,Chennai Super Kings,Runs,2,Dwayne Bravo
+29,29-04-2015,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,Field,Group,200,7,,,,,,
+30,30-04-2015,"Eden Gardens, Kolkata",Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,165,9,169,3,Kolkata Knight Riders,Wickets,7,Andre Russell
+31,01-05-2015,"Feroz Shah Kotla, Delhi",Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,Field,Group,118,8,119,1,Delhi Daredevils,Wickets,9,Nathan Coulter-Nile
+32,01-05-2015,"Wankhede Stadium, Mumbai",Mumbai Indians,Rajasthan Royals,Rajasthan Royals,Field,Group,187,5,179,7,Mumbai Indians,Runs,8,Ambati Rayudu
+33,02-05-2015,"M. Chinnaswamy Stadium, Bangalore",Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,111,4,115,3,Royal Challengers Bangalore,Wickets,7,Mandeep Singh
+34,02-05-2015,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,Field,Group,192,7,170,6,Sunrisers Hyderabad,Runs,22,David Warner 
+35,03-05-2015,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Kings XI Punjab,Mumbai Indians,Bat,Group,172,3,149,7,Mumbai Indians,Runs,23,Lendl Simmons
+36,03-05-2015,"Brabourne Stadium, Mumbai",Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,Field,Group,189,2,175,7,Rajasthan Royals,Runs,14,Ajinkya Rahane
+37,04-05-2015,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Bat,Group,148,9,124,10,Chennai Super Kings,Runs,24,Suresh Raina
+38,04-05-2015,"Eden Gardens, Kolkata",Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,167,7,132,9,Kolkata Knight Riders,Runs,35,Umesh Yadav
+39,05-05-2015,"Wankhede Stadium, Mumbai",Delhi Daredevils,Mumbai Indians,Delhi Daredevils,Bat,Group,152,6,153,5,Mumbai Indians,Wickets,5,Harbhajan Singh
+40,06-05-2015,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,Field,Group,226,3,88,10,Royal Challengers Bangalore,Runs,138,Chris Gayle
+41,07-05-2015,"Brabourne Stadium, Mumbai",Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,Field,Group,201,4,194,7,Sunrisers Hyderabad,Runs,7,Eoin Morgan
+42,07-05-2015,"Eden Gardens, Kolkata",Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,Bat,Group,171,7,158,6,Kolkata Knight Riders,Runs,13,Piyush Chawla
+43,08-05-2015,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Bat,Group,158,5,159,4,Mumbai Indians,Wickets,6,Hardik Pandya
+44,09-05-2015,"Eden Gardens, Kolkata",Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,Bat,Group,183,5,184,9,Kolkata Knight Riders,Wickets,1,Andre Russell
+45,09-05-2015,"Chhattisgarh International Cricket Stadium, Raipur",Sunrisers Hyderabad,Delhi Daredevils,Sunrisers Hyderabad,Bat,Group,163,4,157,4,Sunrisers Hyderabad,Runs,6,Moises Henriques
+46,10-05-2015,"Wankhede Stadium, Mumbai",Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,Bat,Group,235,1,196,7,Royal Challengers Bangalore,Runs,39,AB de Villiers
+47,10-05-2015,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,Bat,Group,157,5,145,9,Chennai Super Kings,Runs,12,Ravindra Jadeja
+48,11-05-2015,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,Bat,Group,185,5,180,7,Sunrisers Hyderabad,Runs,5,David Warner 
+49,12-05-2015,"Chhattisgarh International Cricket Stadium, Raipur",Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,Bat,Group,119,6,120,4,Delhi Daredevils,Wickets,6,Zaheer Khan
+50,13-05-2015,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,106,6,84,6,Kings XI Punjab,Runs,22,Axar Patel
+51,14-05-2015,"Wankhede Stadium, Mumbai",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,171,4,166,7,Mumbai Indians,Runs,5,Hardik Pandya
+52,15-05-2015,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,Bat,Group,135,3,83,4,Royal Challengers Bangalore,Wickets,6,Virat Kohli
+53,16-05-2015,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,Bat,Group,130,7,134,3,Chennai Super Kings,Wickets,7,Pawan Negi
+54,16-05-2015,"Brabourne Stadium, Mumbai",Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,Bat,Group,199,6,190,9,Rajasthan Royals,Runs,9,Shane Watson
+55,17-05-2015,"M. Chinnaswamy Stadium, Bangalore",Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,187,5,2,0,,,,
+56,17-05-2015,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,Bat,Group,113,10,114,1,Mumbai Indians,Wickets,9,Mitchell McClenaghan
+57,19-05-2015,"Wankhede Stadium, Mumbai",Mumbai Indians,Chennai Super Kings,Mumbai Indians,Bat,Playoff,187,6,162,10,Mumbai Indians,Runs,25,Kieron Pollard
+58,20-05-2015,"MCA Stadium, Pune",Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Bat,Playoff,180,4,109,10,Royal Challengers Bangalore,Runs,71,AB de Villiers
+59,22-05-2015,"JSCA International Cricket Stadium, Ranchi",Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Field,Playoff,139,8,140,7,Chennai Super Kings,Wickets,3,Ashish Nehra
+60,24-05-2015,"Eden Gardens, Kolkata",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Field,Final,202,5,161,8,Mumbai Indians,Runs,41,Rohit Sharma

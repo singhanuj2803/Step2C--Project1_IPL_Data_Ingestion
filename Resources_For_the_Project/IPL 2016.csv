@@ -1,0 +1,61 @@
+Match ID,Date,Venue,Team1,Team2,Toss Winner,Toss Decision,Stage,First Innings Score,First Innings Wicket,Second Innings score,Second Innings Wicket,Match Winner,Won by,Margin,Player of the match
+1,09-04-2016,"Wankhede Stadium, Mumbai",Mumbai Indians,Rising Pune Supergiants,Mumbai Indians,Bat,Group,121,8,126,1,Rising Pune Supergiants,Wickets,9,Ajinkya Rahane
+2,10-04-2016,"Eden Gardens, Kolkata",Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,98,10,99,1,Kolkata Knight Riders,Wickets,9,Andre Russell
+3,11-04-2016,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Gujarat Lions,Gujarat Lions,Field,Group,161,6,162,5,Gujarat Lions,Wickets,5,Aaron Finch
+4,12-04-2016,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,227,4,182,6,Royal Challengers Bangalore,Runs,45,AB de Villiers
+5,13-04-2016,"Eden Gardens, Kolkata",Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Field,Group,187,5,188,4,Mumbai Indians,Wickets,6,Rohit Sharma
+6,14-04-2016,"Saurashtra Cricket Association Stadium, Rajkot",Rising Pune Supergiants,Gujarat Lions,Rising Pune Supergiants,Bat,Group,163,5,164,3,Gujarat Lions,Wickets,7,Aaron Finch
+7,15-04-2016,"Feroz Shah Kotla, Delhi",Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,Field,Group,111,9,113,2,Delhi Daredevils,Wickets,8,Amit Mishra
+8,16-04-2016,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Bat,Group,142,7,146,2,Kolkata Knight Riders,Wickets,8,Gautam Gambhir
+9,16-04-2016,"Wankhede Stadium, Mumbai",Mumbai Indians,Gujarat Lions,Gujarat Lions,Field,Group,143,8,147,7,Gujarat Lions,Wickets,3,Aaron Finch
+10,17-04-2016,"Punjab Cricket Association Stadium, Mohali",Rising Pune Supergiants,Kings XI Punjab,Rising Pune Supergiants,Bat,Group,152,7,153,4,Kings XI Punjab,Wickets,6,Manan Vohra
+11,17-04-2016,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,Field,Group,191,5,192,3,Delhi Daredevils,Wickets,7,Quinton de Kock
+12,18-04-2016,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,142,6,145,3,Sunrisers Hyderabad,Wickets,7,David Warner
+13,19-04-2016,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,138,8,141,4,Kolkata Knight Riders,Wickets,6,Robin Uthappa
+14,20-04-2016,"Wankhede Stadium, Mumbai",Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Field,Group,170,7,171,4,Mumbai Indians,Wickets,6,Rohit Sharma
+15,21-04-2016,"Saurashtra Cricket Association Stadium, Rajkot",Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,135,8,137,0,Sunrisers Hyderabad,Wickets,10,Bhuvneshwar Kumar
+16,22-04-2016,"Maharashtra Cricket Association Stadium, Pune",Royal Challengers Bangalore,Rising Pune Supergiants,Rising Pune Supergiants,Field,Group,185,3,172,8,Royal Challengers Bangalore,Runs,13,AB de Villiers
+17,23-04-2016,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Mumbai Indians,Mumbai Indians,Field,Group,164,4,154,7,Delhi Daredevils,Runs,10,Sanju Samson
+18,23-04-2016,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,143,6,146,5,Sunrisers Hyderabad,Wickets,5,Mustafizur Rahman
+19,24-04-2016,"Saurashtra Cricket Association Stadium, Rajkot",Royal Challengers Bangalore,Gujarat Lions,Royal Challengers Bangalore,Bat,Group,180,2,182,4,Gujarat Lions,Wickets,6,Virat Kohli
+20,24-04-2016,"Maharashtra Cricket Association Stadium, Pune",Rising Pune Supergiants,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,160,5,162,8,Kolkata Knight Riders,Wickets,2,Suryakumar Yadav
+21,25-04-2016,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Kings XI Punjab,Kings XI Punjab,Field,Group,189,6,164,7,Mumbai Indians,Runs,25,Parthiv Patel
+22,26-04-2016,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Rising Pune Supergiants,Rising Pune Supergiants,Field,Group,118,8,94,3,Rising Pune Supergiants,Runs,34,Ashok Dinda
+23,27-04-2016,"Feroz Shah Kotla, Delhi",Gujarat Lions,Delhi Daredevils,Delhi Daredevils,Field,Group,172,6,171,5,Gujarat Lions,Runs,1,Chris Morris
+24,28-04-2016,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Field,Group,174,5,178,4,Mumbai Indians,Wickets,6,Rohit Sharma
+25,29-04-2016,"Maharashtra Cricket Association Stadium, Pune",Rising Pune Supergiants,Gujarat Lions,Gujarat Lions,Field,Group,195,3,196,7,Gujarat Lions,Wickets,3,Dwayne Smith
+26,30-04-2016,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,186,8,159,10,Delhi Daredevils,Runs,27,Carlos Brathwaite
+27,30-04-2016,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,194,5,179,6,Sunrisers Hyderabad,Runs,15,David Warner
+28,01-05-2016,"Saurashtra Cricket Association Stadium, Rajkot",Kings XI Punjab,Gujarat Lions,Gujarat Lions,Field,Group,154,10,131,9,Kings XI Punjab,Runs,23,Axar Patel
+29,01-05-2016,"Maharashtra Cricket Association Stadium, Pune",Rising Pune Supergiants,Mumbai Indians,Mumbai Indians,Field,Group,159,5,161,2,Mumbai Indians,Wickets,8,Rohit Sharma
+30,02-05-2016,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,185,7,189,5,Kolkata Knight Riders,Wickets,5,Andre Russell
+31,03-05-2016,"Saurashtra Cricket Association Stadium, Rajkot",Gujarat Lions,Delhi Daredevils,Delhi Daredevils,Field,Group,149,7,150,2,Delhi Daredevils,Wickets,8,Rishabh Pant
+32,04-05-2016,"Eden Gardens, Kolkata",Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,Field,Group,164,3,157,9,Kolkata Knight Riders,Runs,7,Andre Russell
+33,05-05-2016,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Rising Pune Supergiants,Rising Pune Supergiants,Field,Group,162,7,166,3,Rising Pune Supergiants,Wickets,7,Ajinkya Rahane
+34,06-05-2016,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,126,6,129,5,Sunrisers Hyderabad,Wickets,5,Bhuvneshwar Kumar
+35,07-05-2016,"M. Chinnaswamy Stadium, Bangalore",Rising Pune Supergiants,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,191,6,195,3,Royal Challengers Bangalore,Wickets,7,Virat Kohli
+36,07-05-2016,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,Field,Group,181,5,172,5,Kings XI Punjab,Runs,9,Marcus Stoinis
+37,08-05-2016,"ACA-VDCA Stadium, Visakhapatnam",Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,Field,Group,177,3,92,10,Sunrisers Hyderabad,Runs,85,Ashish Nehra
+38,08-05-2016,"Eden Gardens, Kolkata",Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,Field,Group,158,4,164,5,Gujarat Lions,Wickets,5,Praveen Kumar
+39,09-05-2016,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,Field,Group,175,6,174,4,Royal Challengers Bangalore,Runs,1,Shane Watson
+40,10-05-2016,"ACA-VDCA Stadium, Visakhapatnam",Sunrisers Hyderabad,Rising Pune Supergiants,Sunrisers Hyderabad,Bat,Group,137,8,133,8,Sunrisers Hyderabad,Runs,4,Adam Zampa
+41,11-05-2016,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Field,Group,151,4,153,4,Mumbai Indians,Wickets,6,Krunal Pandya
+42,12-05-2016,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Delhi Daredevils,Delhi Daredevils,Field,Group,146,8,150,3,Delhi Daredevils,Wickets,7,Chris Morris
+43,13-05-2016,"ACA-VDCA Stadium, Visakhapatnam",Mumbai Indians,Kings XI Punjab,Mumbai Indians,Bat,Group,124,9,127,3,Kings XI Punjab,Wickets,7,Marcus Stoinis
+44,14-05-2016,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,Field,Group,248,3,104,10,Royal Challengers Bangalore,Runs,144,AB de Villiers
+45,14-05-2016,"Eden Gardens, Kolkata",Rising Pune Supergiants,Kolkata Knight Riders,Rising Pune Supergiants,Bat,Group,103,6,66,2,Kolkata Knight Riders,Wickets,8,Yusuf Pathan
+46,15-05-2016,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,Bat,Group,179,4,180,3,Sunrisers Hyderabad,Wickets,7,Hashim Amla
+47,15-05-2016,"ACA-VDCA Stadium, Visakhapatnam",Mumbai Indians,Delhi Daredevils,Delhi Daredevils,Field,Group,206,4,126,10,Mumbai Indians,Runs,80,Krunal Pandya
+48,16-05-2016,"Eden Gardens, Kolkata",Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,183,5,186,1,Royal Challengers Bangalore,Wickets,9,Virat Kohli
+49,17-05-2016,"ACA-VDCA Stadium, Visakhapatnam",Delhi Daredevils,Rising Pune Supergiants,Rising Pune Supergiants,Field,Group,121,6,76,1,Rising Pune Supergiants,Runs,19,Ashok Dinda
+50,18-05-2016,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,Field,Group,211,3,120,9,Royal Challengers Bangalore,Runs,82,Virat Kohli
+51,19-05-2016,"Green Park Stadium, Kanpur",Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,Field,Group,124,8,125,4,Gujarat Lions,Wickets,6,Dwayne Smith
+52,20-05-2016,"Shaheed Veer Narayan Singh International Stadium, Raipur",Sunrisers Hyderabad,Delhi Daredevils,Delhi Daredevils,Field,Group,158,7,161,4,Delhi Daredevils,Wickets,6,Karun Nair
+53,21-05-2016,"ACA-VDCA Stadium, Visakhapatnam",Kings XI Punjab,Rising Pune Supergiants,Kings XI Punjab,Bat,Group,172,7,173,6,Rising Pune Supergiants,Wickets,4,Mahendra Singh Dhoni
+54,21-05-2016,"Green Park Stadium, Kanpur",Mumbai Indians,Gujarat Lions,Gujarat Lions,Field,Group,172,8,173,4,Gujarat Lions,Wickets,6,Suresh Raina
+55,22-05-2016,"Eden Gardens, Kolkata",Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,171,6,149,8,Kolkata Knight Riders,Runs,22,Yusuf Pathan
+56,22-05-2016,"Shaheed Veer Narayan Singh International Stadium, Raipur",Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,138,8,139,4,Royal Challengers Bangalore,Wickets,6,Virat Kohli
+57,24-05-2016,"M. Chinnaswamy Stadium, Bangalore",Gujarat Lions,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Playoff,158,10,159,6,Royal Challengers Bangalore,Wickets,4,AB de Villiers
+58,25-05-2016,"Feroz Shah Kotla, Delhi",Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Field,Playoff,162,8,140,8,Sunrisers Hyderabad,Runs,22,Moises Henriques
+59,27-05-2016,"Feroz Shah Kotla, Delhi",Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Playoff,162,7,163,6,Sunrisers Hyderabad,Wickets,4,David Warner
+60,29-05-2016,"M. Chinnaswamy Stadium, Bangalore",Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,Bat,Final,208,7,200,7,Sunrisers Hyderabad,Runs,8,Ben Cutting

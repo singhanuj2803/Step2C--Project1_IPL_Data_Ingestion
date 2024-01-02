@@ -1,0 +1,77 @@
+Match ID,Date,Venue,Team1,Team2,Toss Winner,Toss Decision,Stage,First Innings Score,First Innings Wicket,Second Innings score,Second Innings Wicket,Match Winner,Won by,Margin,Player of the match
+1,04-04-2012,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Mumbai Indians,Mumbai Indians,Field,Group,112,10,115,2,Mumbai Indians,Wickets,8,Richard Levi
+2,05-04-2012,"Eden Gardens, Kolkata",Kolkata Knight Riders,Delhi Daredevils,Delhi Daredevils,Field,Group,97,9,100,2,Delhi Daredevils,Wickets,8,Irfan Pathan
+3,06-04-2012,"Wankhede Stadium, Mumbai",Pune Warriors India,Mumbai Indians,Mumbai Indians,Field,Group,129,9,101,9,Pune Warriors India,Runs,28,Steve Smith
+4,06-04-2012,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,Field,Group,191,4,160,9,Rajasthan Royals,Runs,31,Ajinkya Rahane
+5,07-04-2012,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,Field,Group,157,8,137,7,Royal Challengers Bangalore,Runs,20,AB de Villiers
+6,07-04-2012,"ACA-VDCA Stadium, Visakhapatnam",Chennai Super Kings,Deccan Chargers,Deccan Chargers,Field,Group,193,6,119,10,Chennai Super Kings,Runs,74,Ravindra Jadeja
+7,08-04-2012,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,164,5,142,10,Rajasthan Royals,Runs,22,Brad Hodge
+8,08-04-2012,"Subrata Roy Sahara Stadium, Pune",Pune Warriors India,Kings XI Punjab,Kings XI Punjab,Bat,Group,166,6,144,8,Pune Warriors India,Runs,22,Marlon Samuels
+9,09-04-2012,"ACA-VDCA Stadium, Visakhapatnam",Deccan Chargers,Mumbai Indians,Mumbai Indians,Bat,Group,138,9,142,5,Mumbai Indians,Wickets,5,Rohit Sharma
+10,10-04-2012,"M. Chinnaswamy Stadium, Bangalore",Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,165,8,123,9,Kolkata Knight Riders,Runs,42,Lakshmipathy Balaji
+11,10-04-2012,"Feroz Shah Kotla, Delhi",Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,Field,Group,110,8,111,2,Delhi Daredevils,Wickets,8,Morne Morkel
+12,11-04-2012,"Wankhede Stadium, Mumbai",Mumbai Indians,Rajasthan Royals,Rajasthan Royals,Field,Group,197,6,170,10,Mumbai Indians,Runs,27,Kieron Pollard
+13,12-04-2012,"M. A. Chidambaram Stadium, Chennai",Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,Bat,Group,205,8,208,5,Chennai Super Kings,Wickets,5,Francois du Plessis
+14,12-04-2012,"Punjab Cricket Association Stadium, Mohali",Pune Warriors India,Kings XI Punjab,Kings XI Punjab,Field,Group,115,10,116,3,Kings XI Punjab,Wickets,7,Dimitri Mascarenhas
+15,13-04-2012,"Eden Gardens, Kolkata",Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,Bat,Group,131,5,137,5,Kolkata Knight Riders,Wickets,5,Shakib Al Hasan
+16,14-04-2012,"Subrata Roy Sahara Stadium, Pune",Chennai Super Kings,Pune Warriors India,Chennai Super Kings,Bat,Group,155,5,156,3,Pune Warriors India,Wickets,7,Jesse Ryder
+17,15-04-2012,"Eden Gardens, Kolkata",Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,134,9,132,7,Kings XI Punjab,Runs,2,Sunil Narine
+18,15-04-2012,"M. Chinnaswamy Stadium, Bangalore",Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,Bat,Group,195,2,136,10,Rajasthan Royals,Runs,59,Ajinkya Rahane
+19,16-04-2012,"Wankhede Stadium, Mumbai",Mumbai Indians,Delhi Daredevils,Delhi Daredevils,Field,Group,92,10,93,3,Delhi Daredevils,Wickets,7,Shahbaz Nadeem
+20,17-04-2012,"Sawai Mansingh Stadium, Jaipur",Deccan Chargers,Rajasthan Royals,Deccan Chargers,Bat,Group,196,2,197,5,Rajasthan Royals,Wickets,5,Brad Hodge
+21,17-04-2012,"M. Chinnaswamy Stadium, Bangalore",Pune Warriors India,Royal Challengers Bangalore,Pune Warriors India,Bat,Group,182,6,186,4,Royal Challengers Bangalore,Wickets,6,Chris Gayle
+22,18-04-2012,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,Bat,Group,124,7,127,2,Kolkata Knight Riders,Wickets,8,Gautam Gambhir
+23,19-04-2012,"Feroz Shah Kotla, Delhi",Deccan Chargers,Delhi Daredevils,Deccan Chargers,Bat,Group,157,8,162,5,Delhi Daredevils,Wickets,5,Kevin Pietersen
+24,19-04-2012,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Pune Warriors India,Pune Warriors India,Field,Group,164,5,151,7,Chennai Super Kings,Runs,13,Nuwan Kulasekara
+25,20-04-2012,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,163,6,166,5,Royal Challengers Bangalore,Wickets,5,Chris Gayle
+26,21-04-2012,"M. A. Chidambaram Stadium, Chennai",Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Bat,Group,146,4,147,3,Chennai Super Kings,Wickets,7,Francois du Plessis
+27,21-04-2012,"Feroz Shah Kotla, Delhi",Pune Warriors India,Delhi Daredevils,Delhi Daredevils,Field,Group,192,3,172,7,Pune Warriors India,Runs,20,Sourav Ganguly
+28,22-04-2012,"Wankhede Stadium, Mumbai",Mumbai Indians,Kings XI Punjab,Mumbai Indians,Bat,Group,163,6,164,4,Kings XI Punjab,Wickets,6,Shaun Marsh
+29,22-04-2012,"Barabati Stadium, Cuttack",Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,126,7,127,5,Kolkata Knight Riders,Wickets,5,Brett Lee
+30,23-04-2012,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,Field,Group,189,3,143,7,Royal Challengers Bangalore,Runs,46,AB de Villiers
+31,24-04-2012,"Subrata Roy Sahara Stadium, Pune",Pune Warriors India,Delhi Daredevils,Pune Warriors India,Bat,Group,146,2,148,2,Delhi Daredevils,Wickets,8,Virender Sehwag
+32,24-04-2012,"Eden Gardens, Kolkata",Kolkata Knight Riders,Deccan Chargers,,,,,,,,,,,
+33,25-04-2012,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Mumbai Indians,Kings XI Punjab,Bat,Group,168,3,171,6,Mumbai Indians,Wickets,4,Ambati Rayudu
+34,25-04-2012,"M. Chinnaswamy Stadium, Bangalore",Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,,,,,,,,,
+35,26-04-2012,"Subrata Roy Sahara Stadium, Pune",Deccan Chargers,Pune Warriors India,Deccan Chargers,Bat,Group,177,4,159,7,Deccan Chargers,Runs,18,Cameron White
+36,27-04-2012,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Mumbai Indians,Mumbai Indians,Field,Group,207,5,170,9,Delhi Daredevils,Runs,37,Virender Sehwag
+37,28-04-2012,"M. A. Chidambaram Stadium, Chennai",Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,Bat,Group,156,8,149,8,Kings XI Punjab,Runs,7,Mandeep Singh
+38,28-04-2012,"Eden Gardens, Kolkata",Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,Bat,Group,190,4,143,6,Kolkata Knight Riders,Runs,47,Gautam Gambhir
+39,29-04-2012,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,Bat,Group,152,6,151,3,Delhi Daredevils,Runs,1,Virender Sehwag
+40,29-04-2012,"Wankhede Stadium, Mumbai",Deccan Chargers,Mumbai Indians,Mumbai Indians,Field,Group,100,10,101,5,Mumbai Indians,Wickets,5,Dale Steyn
+41,30-04-2012,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Bat,Group,139,5,140,5,Kolkata Knight Riders,Wickets,5,Gautam Gambhir
+42,01-05-2012,"Barabati Stadium, Cuttack",Deccan Chargers,Pune Warriors India,Deccan Chargers,Bat,Group,186,4,173,5,Deccan Chargers,Runs,13,Kumar Sangakkara
+43,01-05-2012,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,Bat,Group,141,6,144,4,Delhi Daredevils,Wickets,6,Pawan Negi
+44,02-05-2012,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,Field,Group,158,5,163,6,Kings XI Punjab,Wickets,4,Azhar Mahmood
+45,03-05-2012,"Subrata Roy Sahara Stadium, Pune",Mumbai Indians,Pune Warriors India,Mumbai Indians,Bat,Group,120,9,119,6,Mumbai Indians,Runs,1,Lasith Malinga
+46,04-05-2012,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Deccan Chargers,Chennai Super Kings,Bat,Group,160,6,150,5,Chennai Super Kings,Runs,10,Suresh Raina
+47,05-05-2012,"Eden Gardens, Kolkata",Kolkata Knight Riders,Pune Warriors India,Kolkata Knight Riders,Bat,Group,150,6,143,8,Kolkata Knight Riders,Runs,7,Sunil Narine
+48,05-05-2012,"Punjab Cricket Association Stadium, Mohali",Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,Bat,Group,177,6,134,8,Rajasthan Royals,Runs,43,Shane Watson
+49,06-05-2012,"Wankhede Stadium, Mumbai",Chennai Super Kings,Mumbai Indians,Mumbai Indians,Field,Group,173,8,174,8,Mumbai Indians,Wickets,2,Dwayne Smith
+50,06-05-2012,"M. Chinnaswamy Stadium, Bangalore",Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,181,2,185,5,Royal Challengers Bangalore,Wickets,5,AB de Villiers
+51,07-05-2012,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,Bat,Group,153,9,154,4,Kolkata Knight Riders,Wickets,6,Jacques Kallis
+52,08-05-2012,"Subrata Roy Sahara Stadium, Pune",Pune Warriors India,Rajasthan Royals,Pune Warriors India,Bat,Group,125,6,126,3,Rajasthan Royals,Wickets,7,Shane Watson
+53,08-05-2012,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Kings XI Punjab,Deccan Chargers,Deccan Chargers,Field,Group,170,5,145,8,Kings XI Punjab,Runs,25,Mandeep Singh
+54,09-05-2012,"Wankhede Stadium, Mumbai",Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,141,6,142,1,Royal Challengers Bangalore,Wickets,9,Chris Gayle
+55,10-05-2012,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Deccan Chargers,Delhi Daredevils,Deccan Chargers,Bat,Group,187,4,193,1,Delhi Daredevils,Wickets,9,David Warner
+56,10-05-2012,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,Field,Group,126,6,127,6,Chennai Super Kings,Wickets,4,Ben Hilfenhaus
+57,11-05-2012,"Subrata Roy Sahara Stadium, Pune",Royal Challengers Bangalore,Pune Warriors India,Pune Warriors India,Field,Group,173,3,138,9,Royal Challengers Bangalore,Runs,35,Chris Gayle
+58,12-05-2012,"Eden Gardens, Kolkata",Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Bat,Group,182,1,155,4,Mumbai Indians,Runs,27,Rohit Sharma
+59,12-05-2012,"M. A. Chidambaram Stadium, Chennai",Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,Field,Group,114,5,115,1,Chennai Super Kings,Wickets,9,Ben Hilfenhaus
+60,13-05-2012,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Pune Warriors India,Rajasthan Royals,Bat,Group,170,4,125,9,Rajasthan Royals,Runs,45,Ajit Chandila
+61,13-05-2012,"Punjab Cricket Association Stadium, Mohali",Deccan Chargers,Kings XI Punjab,Deccan Chargers,Bat,Group,190,4,194,6,Kings XI Punjab,Wickets,4,David Hussey
+62,14-05-2012,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Field,Group,171,6,173,5,Mumbai Indians,Wickets,5,Ambati Rayudu
+63,14-05-2012,"Eden Gardens, Kolkata",Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,Field,Group,158,6,160,5,Chennai Super Kings,Wickets,5,Michael Hussey
+64,15-05-2012,"Feroz Shah Kotla, Delhi",Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,Bat,Group,136,8,140,5,Delhi Daredevils,Wickets,5,Umesh Yadav
+65,16-05-2012,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Field,Group,140,7,108,10,Kolkata Knight Riders,Runs,32,Sunil Narine
+66,17-05-2012,"HPCA Stadium, Dharamsala",Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,Field,Group,120,7,123,4,Kings XI Punjab,Wickets,6,Adam Gilchrist
+67,17-05-2012,"Feroz Shah Kotla, Delhi",Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,Field,Group,215,1,194,9,Royal Challengers Bangalore,Runs,21,Chris Gayle
+68,18-05-2012,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Rajasthan Royals,Deccan Chargers,Rajasthan Royals,Bat,Group,126,8,128,5,Deccan Chargers,Wickets,5,Dale Steyn
+69,19-05-2012,"HPCA Stadium, Dharamsala",Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,Field,Group,141,8,145,4,Delhi Daredevils,Wickets,6,Umesh Yadav
+70,19-05-2012,"Subrata Roy Sahara Stadium, Pune",Kolkata Knight Riders,Pune Warriors India,Kolkata Knight Riders,Bat,Group,136,4,102,8,Kolkata Knight Riders,Runs,34,Shakib Al Hasan
+71,20-05-2012,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,132,7,123,9,Deccan Chargers,Runs,9,Dale Steyn
+72,20-05-2012,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Bat,Group,162,6,163,0,Mumbai Indians,Wickets,10,Dwayne Smith
+73,22-05-2012,"Subrata Roy Sahara Stadium, Pune",Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,Bat,Playoff,162,4,144,8,Kolkata Knight Riders,Runs,18,Yusuf Pathan
+74,23-05-2012,"M. Chinnaswamy Stadium, Bangalore",Chennai Super Kings,Mumbai Indians,Mumbai Indians,Field,Playoff,187,5,149,9,Chennai Super Kings,Runs,38,Mahendra Singh Dhoni
+75,25-05-2012,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,Field,Playoff,222,5,136,10,Chennai Super Kings,Runs,86,Murali Vijay
+76,27-05-2012,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Bat,Final,190,3,192,5,Kolkata Knight Riders,Wickets,5,Manvinder Bisla
